@@ -1827,5 +1827,103 @@
   "category": "routine",
   "english_keyword": "hat",
   "source": "hat_-_mans.svg"
+ },
+ {
+  "file": "routine/routine_090_nap.png",
+  "arabic_label": "قيلولة",
+  "category": "routine",
+  "english_keyword": "nap",
+  "source": "rest_,_to.svg"
+ },
+ {
+  "file": "routine/routine_091_homework.png",
+  "arabic_label": "واجب منزلي",
+  "category": "routine",
+  "english_keyword": "homework",
+  "source": "study_,_to.svg"
+ },
+ {
+  "file": "routine/routine_092_bedtime_story.png",
+  "arabic_label": "قصة ما قبل النوم",
+  "category": "routine",
+  "english_keyword": "bedtime_story",
+  "source": "read_book_,_to.svg"
+ },
+ {
+  "file": "routine/routine_093_sofa.png",
+  "arabic_label": "أريكة",
+  "category": "routine",
+  "english_keyword": "sofa",
+  "source": "settee_1.svg"
+ },
+ {
+  "file": "outdoor/outdoor_060_market.png",
+  "arabic_label": "سوق",
+  "category": "outdoor",
+  "english_keyword": "market",
+  "source": "shop.svg"
+ },
+ {
+  "file": "outdoor/outdoor_061_bakery.png",
+  "arabic_label": "مخبز",
+  "category": "outdoor",
+  "english_keyword": "bakery",
+  "source": "bread.svg"
+ },
+ {
+  "file": "outdoor/outdoor_062_pharmacy.png",
+  "arabic_label": "صيدلية",
+  "category": "outdoor",
+  "english_keyword": "pharmacy",
+  "source": "medicine.svg"
+ },
+ {
+  "file": "outdoor/outdoor_063_playground.png",
+  "arabic_label": "ملعب أطفال",
+  "category": "outdoor",
+  "english_keyword": "playground",
+  "source": "swing.svg"
+ },
+ {
+  "file": "outdoor/outdoor_064_stadium.png",
+  "arabic_label": "ملعب",
+  "category": "outdoor",
+  "english_keyword": "stadium",
+  "source": "football.svg"
+ },
+ {
+  "file": "outdoor/outdoor_065_library.png",
+  "arabic_label": "مكتبة",
+  "category": "outdoor",
+  "english_keyword": "library",
+  "source": "bookcase.svg"
+ },
+ {
+  "file": "emotions/emotions_041_sick.png",
+  "arabic_label": "مريض",
+  "category": "emotions",
+  "english_keyword": "sick",
+  "source": "thermometer.svg"
+ },
+ {
+  "file": "emotions/emotions_042_go.png",
+  "arabic_label": "اذهب",
+  "category": "emotions",
+  "english_keyword": "go",
+  "source": "go_,_to.svg"
+ },
+ {
+  "file": "emotions/emotions_043_hand.png",
+  "arabic_label": "يد",
+  "category": "emotions",
+  "english_keyword": "hand",
+  "source": "point_,_to.svg"
+ },
+ {
+  "file": "emotions/emotions_044_hair.png",
+  "arabic_label": "شعر",
+  "category": "emotions",
+  "english_keyword": "hair",
+  "source": "curly_hair.svg"
  }
 ]
