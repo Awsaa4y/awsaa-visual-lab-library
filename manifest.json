@@ -1,0 +1,1444 @@
+[
+  {
+    "file": "routine/routine_001_wake_up.png",
+    "arabic_label": "الاستيقاظ",
+    "category": "routine",
+    "english_keyword": "wake_up",
+    "source": "wake_up_,_to.svg"
+  },
+  {
+    "file": "routine/routine_002_bed.png",
+    "arabic_label": "سرير",
+    "category": "routine",
+    "english_keyword": "bed",
+    "source": "single_bed.svg"
+  },
+  {
+    "file": "routine/routine_003_wash_face.png",
+    "arabic_label": "غسل الوجه",
+    "category": "routine",
+    "english_keyword": "wash_face",
+    "source": "wash_face_,_to.svg"
+  },
+  {
+    "file": "routine/routine_004_brush_teeth.png",
+    "arabic_label": "تنظيف الأسنان",
+    "category": "routine",
+    "english_keyword": "brush_teeth",
+    "source": "brush_teeth_,_to.svg"
+  },
+  {
+    "file": "routine/routine_005_toothbrush.png",
+    "arabic_label": "فرشاة الأسنان",
+    "category": "routine",
+    "english_keyword": "toothbrush",
+    "source": "toothbrush.svg"
+  },
+  {
+    "file": "routine/routine_006_toothpaste.png",
+    "arabic_label": "معجون الأسنان",
+    "category": "routine",
+    "english_keyword": "toothpaste",
+    "source": "toothpaste.svg"
+  },
+  {
+    "file": "routine/routine_007_breakfast.png",
+    "arabic_label": "الفطور",
+    "category": "routine",
+    "english_keyword": "breakfast",
+    "source": "breakfast_time.svg"
+  },
+  {
+    "file": "routine/routine_008_milk.png",
+    "arabic_label": "حليب",
+    "category": "routine",
+    "english_keyword": "milk",
+    "source": "milk.svg"
+  },
+  {
+    "file": "routine/routine_009_bread.png",
+    "arabic_label": "خبز",
+    "category": "routine",
+    "english_keyword": "bread",
+    "source": "bread.svg"
+  },
+  {
+    "file": "routine/routine_010_egg.png",
+    "arabic_label": "بيض",
+    "category": "routine",
+    "english_keyword": "egg",
+    "source": "egg.svg"
+  },
+  {
+    "file": "routine/routine_011_get_dressed.png",
+    "arabic_label": "ارتداء الملابس",
+    "category": "routine",
+    "english_keyword": "get_dressed",
+    "source": "get_dressed_,_to.svg"
+  },
+  {
+    "file": "routine/routine_012_shirt.png",
+    "arabic_label": "قميص",
+    "category": "routine",
+    "english_keyword": "shirt",
+    "source": "shirt.svg"
+  },
+  {
+    "file": "routine/routine_013_trousers.png",
+    "arabic_label": "بنطال",
+    "category": "routine",
+    "english_keyword": "trousers",
+    "source": "trousers.svg"
+  },
+  {
+    "file": "routine/routine_014_socks.png",
+    "arabic_label": "جوارب",
+    "category": "routine",
+    "english_keyword": "socks",
+    "source": "socks.svg"
+  },
+  {
+    "file": "routine/routine_015_shoes.png",
+    "arabic_label": "حذاء رياضي",
+    "category": "routine",
+    "english_keyword": "shoes",
+    "source": "trainers.svg"
+  },
+  {
+    "file": "routine/routine_016_school_bag.png",
+    "arabic_label": "حقيبة المدرسة",
+    "category": "routine",
+    "english_keyword": "school_bag",
+    "source": "school_bag.svg"
+  },
+  {
+    "file": "routine/routine_017_go_to_school.png",
+    "arabic_label": "الذهاب إلى المدرسة",
+    "category": "routine",
+    "english_keyword": "go_to_school",
+    "source": "school.svg"
+  },
+  {
+    "file": "routine/routine_018_bus.png",
+    "arabic_label": "حافلة",
+    "category": "routine",
+    "english_keyword": "bus",
+    "source": "bus.svg"
+  },
+  {
+    "file": "routine/routine_019_lunch.png",
+    "arabic_label": "الغداء",
+    "category": "routine",
+    "english_keyword": "lunch",
+    "source": "lunch_time.svg"
+  },
+  {
+    "file": "routine/routine_020_rice.png",
+    "arabic_label": "أرز",
+    "category": "routine",
+    "english_keyword": "rice",
+    "source": "rice.svg"
+  },
+  {
+    "file": "routine/routine_021_chicken.png",
+    "arabic_label": "دجاج",
+    "category": "routine",
+    "english_keyword": "chicken",
+    "source": "chicken.svg"
+  },
+  {
+    "file": "routine/routine_022_vegetables.png",
+    "arabic_label": "خضار",
+    "category": "routine",
+    "english_keyword": "vegetables",
+    "source": "vegetables.svg"
+  },
+  {
+    "file": "routine/routine_023_fruit.png",
+    "arabic_label": "فاكهة",
+    "category": "routine",
+    "english_keyword": "fruit",
+    "source": "fruit.svg"
+  },
+  {
+    "file": "routine/routine_024_water.png",
+    "arabic_label": "ماء",
+    "category": "routine",
+    "english_keyword": "water",
+    "source": "water.svg"
+  },
+  {
+    "file": "routine/routine_025_juice.png",
+    "arabic_label": "عصير",
+    "category": "routine",
+    "english_keyword": "juice",
+    "source": "orange_juice.svg"
+  },
+  {
+    "file": "routine/routine_026_dinner.png",
+    "arabic_label": "العشاء",
+    "category": "routine",
+    "english_keyword": "dinner",
+    "source": "dinner.svg"
+  },
+  {
+    "file": "routine/routine_027_shower.png",
+    "arabic_label": "الاستحمام",
+    "category": "routine",
+    "english_keyword": "shower",
+    "source": "shower.svg"
+  },
+  {
+    "file": "routine/routine_028_soap.png",
+    "arabic_label": "صابون",
+    "category": "routine",
+    "english_keyword": "soap",
+    "source": "soap.svg"
+  },
+  {
+    "file": "routine/routine_029_towel.png",
+    "arabic_label": "منشفة",
+    "category": "routine",
+    "english_keyword": "towel",
+    "source": "towel.svg"
+  },
+  {
+    "file": "routine/routine_030_pyjamas.png",
+    "arabic_label": "بيجاما",
+    "category": "routine",
+    "english_keyword": "pyjamas",
+    "source": "pyjamas.svg"
+  },
+  {
+    "file": "routine/routine_031_lamp.png",
+    "arabic_label": "مصباح",
+    "category": "routine",
+    "english_keyword": "lamp",
+    "source": "lamp.svg"
+  },
+  {
+    "file": "routine/routine_032_toilet.png",
+    "arabic_label": "مرحاض",
+    "category": "routine",
+    "english_keyword": "toilet",
+    "source": "toilet.svg"
+  },
+  {
+    "file": "routine/routine_033_wash_hands.png",
+    "arabic_label": "غسل اليدين",
+    "category": "routine",
+    "english_keyword": "wash_hands",
+    "source": "wash_hands_,_to.svg"
+  },
+  {
+    "file": "routine/routine_034_comb.png",
+    "arabic_label": "مشط",
+    "category": "routine",
+    "english_keyword": "comb",
+    "source": "comb.svg"
+  },
+  {
+    "file": "routine/routine_035_breakfast_table.png",
+    "arabic_label": "طاولة الفطور",
+    "category": "routine",
+    "english_keyword": "breakfast_table",
+    "source": "dining_table.svg"
+  },
+  {
+    "file": "routine/routine_036_lunchbox.png",
+    "arabic_label": "علبة الغداء",
+    "category": "routine",
+    "english_keyword": "lunchbox",
+    "source": "lunch_box.svg"
+  },
+  {
+    "file": "routine/routine_037_slippers.png",
+    "arabic_label": "نعال منزلية",
+    "category": "routine",
+    "english_keyword": "slippers",
+    "source": "slippers.svg"
+  },
+  {
+    "file": "routine/routine_038_vest.png",
+    "arabic_label": "قميص داخلي",
+    "category": "routine",
+    "english_keyword": "vest",
+    "source": "vest.svg"
+  },
+  {
+    "file": "routine/routine_039_coat.png",
+    "arabic_label": "معطف",
+    "category": "routine",
+    "english_keyword": "coat",
+    "source": "coat.svg"
+  },
+  {
+    "file": "routine/routine_040_scarf.png",
+    "arabic_label": "وشاح",
+    "category": "routine",
+    "english_keyword": "scarf",
+    "source": "scarf.svg"
+  },
+  {
+    "file": "routine/routine_041_gloves.png",
+    "arabic_label": "قفازات",
+    "category": "routine",
+    "english_keyword": "gloves",
+    "source": "gloves.svg"
+  },
+  {
+    "file": "routine/routine_042_boots.png",
+    "arabic_label": "جزمة",
+    "category": "routine",
+    "english_keyword": "boots",
+    "source": "boots.svg"
+  },
+  {
+    "file": "routine/routine_043_shampoo.png",
+    "arabic_label": "شامبو",
+    "category": "routine",
+    "english_keyword": "shampoo",
+    "source": "shampoo.svg"
+  },
+  {
+    "file": "routine/routine_044_morning.png",
+    "arabic_label": "صباح",
+    "category": "routine",
+    "english_keyword": "morning",
+    "source": "morning.svg"
+  },
+  {
+    "file": "routine/routine_045_night.png",
+    "arabic_label": "ليل",
+    "category": "routine",
+    "english_keyword": "night",
+    "source": "night.svg"
+  },
+  {
+    "file": "routine/routine_046_moon.png",
+    "arabic_label": "قمر",
+    "category": "routine",
+    "english_keyword": "moon",
+    "source": "Moon.svg"
+  },
+  {
+    "file": "routine/routine_047_clock.png",
+    "arabic_label": "ساعة",
+    "category": "routine",
+    "english_keyword": "clock",
+    "source": "clock.svg"
+  },
+  {
+    "file": "routine/routine_048_eat.png",
+    "arabic_label": "أكل",
+    "category": "routine",
+    "english_keyword": "eat",
+    "source": "eat_,_to.svg"
+  },
+  {
+    "file": "routine/routine_049_drink.png",
+    "arabic_label": "شرب",
+    "category": "routine",
+    "english_keyword": "drink",
+    "source": "drink.svg"
+  },
+  {
+    "file": "routine/routine_050_apple.png",
+    "arabic_label": "تفاحة",
+    "category": "routine",
+    "english_keyword": "apple",
+    "source": "apple.svg"
+  },
+  {
+    "file": "routine/routine_051_banana.png",
+    "arabic_label": "موز",
+    "category": "routine",
+    "english_keyword": "banana",
+    "source": "banana.svg"
+  },
+  {
+    "file": "routine/routine_052_plate.png",
+    "arabic_label": "طبق",
+    "category": "routine",
+    "english_keyword": "plate",
+    "source": "plate.svg"
+  },
+  {
+    "file": "routine/routine_053_spoon.png",
+    "arabic_label": "ملعقة",
+    "category": "routine",
+    "english_keyword": "spoon",
+    "source": "spoon.svg"
+  },
+  {
+    "file": "routine/routine_054_dates.png",
+    "arabic_label": "تمر",
+    "category": "routine",
+    "english_keyword": "dates",
+    "source": "dates.svg"
+  },
+  {
+    "file": "routine/routine_055_blanket.png",
+    "arabic_label": "بطانية",
+    "category": "routine",
+    "english_keyword": "blanket",
+    "source": "blanket.svg"
+  },
+  {
+    "file": "routine/routine_056_cap.png",
+    "arabic_label": "قبعة",
+    "category": "routine",
+    "english_keyword": "cap",
+    "source": "cap.svg"
+  },
+  {
+    "file": "routine/routine_057_jacket.png",
+    "arabic_label": "سترة",
+    "category": "routine",
+    "english_keyword": "jacket",
+    "source": "jacket.svg"
+  },
+  {
+    "file": "routine/routine_058_winter_hat.png",
+    "arabic_label": "قبعة شتوية",
+    "category": "routine",
+    "english_keyword": "winter_hat",
+    "source": "bobble_hat.svg"
+  },
+  {
+    "file": "routine/routine_059_tshirt.png",
+    "arabic_label": "تيشيرت",
+    "category": "routine",
+    "english_keyword": "tshirt",
+    "source": "t-shirt.svg"
+  },
+  {
+    "file": "routine/routine_060_dress.png",
+    "arabic_label": "فستان",
+    "category": "routine",
+    "english_keyword": "dress",
+    "source": "dress.svg"
+  },
+  {
+    "file": "routine/routine_061_skirt.png",
+    "arabic_label": "تنورة",
+    "category": "routine",
+    "english_keyword": "skirt",
+    "source": "skirt.svg"
+  },
+  {
+    "file": "routine/routine_062_jumper.png",
+    "arabic_label": "كنزة صوفية",
+    "category": "routine",
+    "english_keyword": "jumper",
+    "source": "jumper.svg"
+  },
+  {
+    "file": "routine/routine_063_dressing_gown.png",
+    "arabic_label": "روب منزلي",
+    "category": "routine",
+    "english_keyword": "dressing_gown",
+    "source": "dressing_gown.svg"
+  },
+  {
+    "file": "routine/routine_064_toast.png",
+    "arabic_label": "توست",
+    "category": "routine",
+    "english_keyword": "toast",
+    "source": "toast.svg"
+  },
+  {
+    "file": "routine/routine_065_honey.png",
+    "arabic_label": "عسل",
+    "category": "routine",
+    "english_keyword": "honey",
+    "source": "honey.svg"
+  },
+  {
+    "file": "home/home_001_play.png",
+    "arabic_label": "لعب",
+    "category": "home",
+    "english_keyword": "play",
+    "source": "play_,_to.svg"
+  },
+  {
+    "file": "home/home_002_toys.png",
+    "arabic_label": "ألعاب",
+    "category": "home",
+    "english_keyword": "toys",
+    "source": "toys.svg"
+  },
+  {
+    "file": "home/home_003_building_blocks.png",
+    "arabic_label": "مكعبات التركيب",
+    "category": "home",
+    "english_keyword": "building_blocks",
+    "source": "lego.svg"
+  },
+  {
+    "file": "home/home_004_doll.png",
+    "arabic_label": "دمية",
+    "category": "home",
+    "english_keyword": "doll",
+    "source": "doll.svg"
+  },
+  {
+    "file": "home/home_005_ball.png",
+    "arabic_label": "كرة",
+    "category": "home",
+    "english_keyword": "ball",
+    "source": "ball.svg"
+  },
+  {
+    "file": "home/home_006_television.png",
+    "arabic_label": "تلفاز",
+    "category": "home",
+    "english_keyword": "television",
+    "source": "switch_on_television_,_to.svg"
+  },
+  {
+    "file": "home/home_007_read.png",
+    "arabic_label": "قراءة",
+    "category": "home",
+    "english_keyword": "read",
+    "source": "read_book_,_to.svg"
+  },
+  {
+    "file": "home/home_008_draw.png",
+    "arabic_label": "رسم",
+    "category": "home",
+    "english_keyword": "draw",
+    "source": "draw_,_to.svg"
+  },
+  {
+    "file": "home/home_009_colours.png",
+    "arabic_label": "ألوان",
+    "category": "home",
+    "english_keyword": "colours",
+    "source": "colour.svg"
+  },
+  {
+    "file": "home/home_010_playdough.png",
+    "arabic_label": "عجينة اللعب",
+    "category": "home",
+    "english_keyword": "playdough",
+    "source": "playdough.svg"
+  },
+  {
+    "file": "home/home_011_puzzle.png",
+    "arabic_label": "أحجية تركيب",
+    "category": "home",
+    "english_keyword": "puzzle",
+    "source": "jigsaw_puzzle.svg"
+  },
+  {
+    "file": "home/home_012_music.png",
+    "arabic_label": "موسيقى",
+    "category": "home",
+    "english_keyword": "music",
+    "source": "music.svg"
+  },
+  {
+    "file": "home/home_013_sing.png",
+    "arabic_label": "غناء",
+    "category": "home",
+    "english_keyword": "sing",
+    "source": "sing_,_to.svg"
+  },
+  {
+    "file": "home/home_014_dance.png",
+    "arabic_label": "رقص",
+    "category": "home",
+    "english_keyword": "dance",
+    "source": "dance_,_to.svg"
+  },
+  {
+    "file": "home/home_015_help.png",
+    "arabic_label": "مساعدة",
+    "category": "home",
+    "english_keyword": "help",
+    "source": "help_,_to.svg"
+  },
+  {
+    "file": "home/home_016_tidy_up.png",
+    "arabic_label": "ترتيب الغرفة",
+    "category": "home",
+    "english_keyword": "tidy_up",
+    "source": "tidy_up_,_to.svg"
+  },
+  {
+    "file": "home/home_017_clean.png",
+    "arabic_label": "تنظيف",
+    "category": "home",
+    "english_keyword": "clean",
+    "source": "clean_room.svg"
+  },
+  {
+    "file": "home/home_018_cook.png",
+    "arabic_label": "طبخ",
+    "category": "home",
+    "english_keyword": "cook",
+    "source": "cook_,_to.svg"
+  },
+  {
+    "file": "home/home_019_water_plants.png",
+    "arabic_label": "سقي النباتات",
+    "category": "home",
+    "english_keyword": "water_plants",
+    "source": "water_plants_,_to.svg"
+  },
+  {
+    "file": "home/home_020_table.png",
+    "arabic_label": "طاولة",
+    "category": "home",
+    "english_keyword": "table",
+    "source": "table.svg"
+  },
+  {
+    "file": "home/home_021_chair.png",
+    "arabic_label": "كرسي",
+    "category": "home",
+    "english_keyword": "chair",
+    "source": "chair.svg"
+  },
+  {
+    "file": "home/home_022_bathroom.png",
+    "arabic_label": "حمام",
+    "category": "home",
+    "english_keyword": "bathroom",
+    "source": "bath.svg"
+  },
+  {
+    "file": "home/home_023_teddy_bear.png",
+    "arabic_label": "دب محشو",
+    "category": "home",
+    "english_keyword": "teddy_bear",
+    "source": "teddy_bear.svg"
+  },
+  {
+    "file": "home/home_024_guitar.png",
+    "arabic_label": "قيثارة",
+    "category": "home",
+    "english_keyword": "guitar",
+    "source": "guitar.svg"
+  },
+  {
+    "file": "home/home_025_drum.png",
+    "arabic_label": "طبل",
+    "category": "home",
+    "english_keyword": "drum",
+    "source": "drum.svg"
+  },
+  {
+    "file": "home/home_026_piano.png",
+    "arabic_label": "بيانو",
+    "category": "home",
+    "english_keyword": "piano",
+    "source": "piano.svg"
+  },
+  {
+    "file": "home/home_027_scissors.png",
+    "arabic_label": "مقص",
+    "category": "home",
+    "english_keyword": "scissors",
+    "source": "scissors.svg"
+  },
+  {
+    "file": "home/home_028_glue.png",
+    "arabic_label": "صمغ",
+    "category": "home",
+    "english_keyword": "glue",
+    "source": "glue.svg"
+  },
+  {
+    "file": "home/home_029_paint.png",
+    "arabic_label": "ألوان مائية",
+    "category": "home",
+    "english_keyword": "paint",
+    "source": "paint.svg"
+  },
+  {
+    "file": "home/home_030_paper.png",
+    "arabic_label": "ورق",
+    "category": "home",
+    "english_keyword": "paper",
+    "source": "paper.svg"
+  },
+  {
+    "file": "home/home_031_pencil.png",
+    "arabic_label": "قلم رصاص",
+    "category": "home",
+    "english_keyword": "pencil",
+    "source": "pencil.svg"
+  },
+  {
+    "file": "home/home_032_balloon.png",
+    "arabic_label": "بالونة",
+    "category": "home",
+    "english_keyword": "balloon",
+    "source": "balloon.svg"
+  },
+  {
+    "file": "home/home_033_phone.png",
+    "arabic_label": "هاتف",
+    "category": "home",
+    "english_keyword": "phone",
+    "source": "mobile_phone.svg"
+  },
+  {
+    "file": "home/home_034_video_game.png",
+    "arabic_label": "لعبة فيديو",
+    "category": "home",
+    "english_keyword": "video_game",
+    "source": "computer_game.svg"
+  },
+  {
+    "file": "home/home_035_window.png",
+    "arabic_label": "نافذة",
+    "category": "home",
+    "english_keyword": "window",
+    "source": "window.svg"
+  },
+  {
+    "file": "home/home_036_door.png",
+    "arabic_label": "باب",
+    "category": "home",
+    "english_keyword": "door",
+    "source": "door.svg"
+  },
+  {
+    "file": "home/home_037_stairs.png",
+    "arabic_label": "درج",
+    "category": "home",
+    "english_keyword": "stairs",
+    "source": "stairs.svg"
+  },
+  {
+    "file": "home/home_038_mirror.png",
+    "arabic_label": "مرآة",
+    "category": "home",
+    "english_keyword": "mirror",
+    "source": "mirror.svg"
+  },
+  {
+    "file": "home/home_039_desk.png",
+    "arabic_label": "مكتب",
+    "category": "home",
+    "english_keyword": "desk",
+    "source": "desk.svg"
+  },
+  {
+    "file": "home/home_040_bookshelf.png",
+    "arabic_label": "مكتبة كتب",
+    "category": "home",
+    "english_keyword": "bookshelf",
+    "source": "book_shelf.svg"
+  },
+  {
+    "file": "home/home_041_camera.png",
+    "arabic_label": "كاميرا",
+    "category": "home",
+    "english_keyword": "camera",
+    "source": "camera.svg"
+  },
+  {
+    "file": "home/home_042_drawer.png",
+    "arabic_label": "درج مكتب",
+    "category": "home",
+    "english_keyword": "drawer",
+    "source": "drawer.svg"
+  },
+  {
+    "file": "home/home_043_rug.png",
+    "arabic_label": "سجادة",
+    "category": "home",
+    "english_keyword": "rug",
+    "source": "rug.svg"
+  },
+  {
+    "file": "home/home_044_laptop.png",
+    "arabic_label": "حاسوب محمول",
+    "category": "home",
+    "english_keyword": "laptop",
+    "source": "laptop.svg"
+  },
+  {
+    "file": "home/home_045_printer.png",
+    "arabic_label": "طابعة",
+    "category": "home",
+    "english_keyword": "printer",
+    "source": "printer.svg"
+  },
+  {
+    "file": "home/home_046_bookcase.png",
+    "arabic_label": "خزانة كتب",
+    "category": "home",
+    "english_keyword": "bookcase",
+    "source": "bookcase.svg"
+  },
+  {
+    "file": "home/home_047_toy_box.png",
+    "arabic_label": "صندوق الألعاب",
+    "category": "home",
+    "english_keyword": "toy_box",
+    "source": "toy_box.svg"
+  },
+  {
+    "file": "home/home_048_picture.png",
+    "arabic_label": "صورة",
+    "category": "home",
+    "english_keyword": "picture",
+    "source": "picture.svg"
+  },
+  {
+    "file": "home/home_049_wristwatch.png",
+    "arabic_label": "ساعة يد",
+    "category": "home",
+    "english_keyword": "wristwatch",
+    "source": "watch.svg"
+  },
+  {
+    "file": "outdoor/outdoor_001_swing.png",
+    "arabic_label": "أرجوحة",
+    "category": "outdoor",
+    "english_keyword": "swing",
+    "source": "swing.svg"
+  },
+  {
+    "file": "outdoor/outdoor_002_slide.png",
+    "arabic_label": "زحلاقة",
+    "category": "outdoor",
+    "english_keyword": "slide",
+    "source": "slide.svg"
+  },
+  {
+    "file": "outdoor/outdoor_003_walk.png",
+    "arabic_label": "مشي",
+    "category": "outdoor",
+    "english_keyword": "walk",
+    "source": "walk_,_to.svg"
+  },
+  {
+    "file": "outdoor/outdoor_004_bicycle.png",
+    "arabic_label": "دراجة",
+    "category": "outdoor",
+    "english_keyword": "bicycle",
+    "source": "bicycle.svg"
+  },
+  {
+    "file": "outdoor/outdoor_005_car.png",
+    "arabic_label": "سيارة",
+    "category": "outdoor",
+    "english_keyword": "car",
+    "source": "car.svg"
+  },
+  {
+    "file": "outdoor/outdoor_006_shopping.png",
+    "arabic_label": "تسوق",
+    "category": "outdoor",
+    "english_keyword": "shopping",
+    "source": "shop.svg"
+  },
+  {
+    "file": "outdoor/outdoor_007_doctor.png",
+    "arabic_label": "طبيب",
+    "category": "outdoor",
+    "english_keyword": "doctor",
+    "source": "doctor_1a.svg"
+  },
+  {
+    "file": "outdoor/outdoor_008_beach.png",
+    "arabic_label": "شاطئ",
+    "category": "outdoor",
+    "english_keyword": "beach",
+    "source": "beach.svg"
+  },
+  {
+    "file": "outdoor/outdoor_009_football.png",
+    "arabic_label": "كرة القدم",
+    "category": "outdoor",
+    "english_keyword": "football",
+    "source": "football.svg"
+  },
+  {
+    "file": "outdoor/outdoor_010_visit_grandmother.png",
+    "arabic_label": "زيارة الجدة",
+    "category": "outdoor",
+    "english_keyword": "visit_grandmother",
+    "source": "grandmother.svg"
+  },
+  {
+    "file": "outdoor/outdoor_011_visit_family.png",
+    "arabic_label": "زيارة العائلة",
+    "category": "outdoor",
+    "english_keyword": "visit_family",
+    "source": "family.svg"
+  },
+  {
+    "file": "outdoor/outdoor_012_restaurant.png",
+    "arabic_label": "مقهى/مطعم",
+    "category": "outdoor",
+    "english_keyword": "restaurant",
+    "source": "cafe.svg"
+  },
+  {
+    "file": "outdoor/outdoor_013_garden.png",
+    "arabic_label": "حديقة",
+    "category": "outdoor",
+    "english_keyword": "garden",
+    "source": "back_garden.svg"
+  },
+  {
+    "file": "outdoor/outdoor_014_street.png",
+    "arabic_label": "طريق",
+    "category": "outdoor",
+    "english_keyword": "street",
+    "source": "road.svg"
+  },
+  {
+    "file": "outdoor/outdoor_015_sun.png",
+    "arabic_label": "شمس",
+    "category": "outdoor",
+    "english_keyword": "sun",
+    "source": "sun.svg"
+  },
+  {
+    "file": "outdoor/outdoor_016_rain.png",
+    "arabic_label": "مطر",
+    "category": "outdoor",
+    "english_keyword": "rain",
+    "source": "rain.svg"
+  },
+  {
+    "file": "outdoor/outdoor_017_mosque.png",
+    "arabic_label": "المسجد/الصلاة (الرمز يصور الصلاة)",
+    "category": "outdoor",
+    "english_keyword": "mosque",
+    "source": "prayer.svg"
+  },
+  {
+    "file": "outdoor/outdoor_018_picnic.png",
+    "arabic_label": "نزهة",
+    "category": "outdoor",
+    "english_keyword": "picnic",
+    "source": "picnic.svg"
+  },
+  {
+    "file": "outdoor/outdoor_019_ice_cream.png",
+    "arabic_label": "مثلجات",
+    "category": "outdoor",
+    "english_keyword": "ice_cream",
+    "source": "ice_cream.svg"
+  },
+  {
+    "file": "outdoor/outdoor_020_horse.png",
+    "arabic_label": "حصان",
+    "category": "outdoor",
+    "english_keyword": "horse",
+    "source": "horse.svg"
+  },
+  {
+    "file": "outdoor/outdoor_021_dog.png",
+    "arabic_label": "كلب",
+    "category": "outdoor",
+    "english_keyword": "dog",
+    "source": "dog.svg"
+  },
+  {
+    "file": "outdoor/outdoor_022_cat.png",
+    "arabic_label": "قطة",
+    "category": "outdoor",
+    "english_keyword": "cat",
+    "source": "cat.svg"
+  },
+  {
+    "file": "outdoor/outdoor_023_bird.png",
+    "arabic_label": "عصفور",
+    "category": "outdoor",
+    "english_keyword": "bird",
+    "source": "bird.svg"
+  },
+  {
+    "file": "outdoor/outdoor_024_fish.png",
+    "arabic_label": "سمكة",
+    "category": "outdoor",
+    "english_keyword": "fish",
+    "source": "fish.svg"
+  },
+  {
+    "file": "outdoor/outdoor_025_tree.png",
+    "arabic_label": "شجرة",
+    "category": "outdoor",
+    "english_keyword": "tree",
+    "source": "tree.svg"
+  },
+  {
+    "file": "outdoor/outdoor_026_flower.png",
+    "arabic_label": "وردة",
+    "category": "outdoor",
+    "english_keyword": "flower",
+    "source": "flower.svg"
+  },
+  {
+    "file": "outdoor/outdoor_027_cloudy.png",
+    "arabic_label": "غائم",
+    "category": "outdoor",
+    "english_keyword": "cloudy",
+    "source": "cloudy.svg"
+  },
+  {
+    "file": "outdoor/outdoor_028_snow.png",
+    "arabic_label": "ثلج",
+    "category": "outdoor",
+    "english_keyword": "snow",
+    "source": "snow.svg"
+  },
+  {
+    "file": "outdoor/outdoor_029_taxi.png",
+    "arabic_label": "تاكسي",
+    "category": "outdoor",
+    "english_keyword": "taxi",
+    "source": "taxi.svg"
+  },
+  {
+    "file": "outdoor/outdoor_030_train.png",
+    "arabic_label": "قطار",
+    "category": "outdoor",
+    "english_keyword": "train",
+    "source": "train.svg"
+  },
+  {
+    "file": "outdoor/outdoor_031_cow.png",
+    "arabic_label": "بقرة",
+    "category": "outdoor",
+    "english_keyword": "cow",
+    "source": "cow.svg"
+  },
+  {
+    "file": "outdoor/outdoor_032_sheep.png",
+    "arabic_label": "خروف",
+    "category": "outdoor",
+    "english_keyword": "sheep",
+    "source": "sheep.svg"
+  },
+  {
+    "file": "outdoor/outdoor_033_duck.png",
+    "arabic_label": "بطة",
+    "category": "outdoor",
+    "english_keyword": "duck",
+    "source": "duck.svg"
+  },
+  {
+    "file": "outdoor/outdoor_034_butterfly.png",
+    "arabic_label": "فراشة",
+    "category": "outdoor",
+    "english_keyword": "butterfly",
+    "source": "butterfly.svg"
+  },
+  {
+    "file": "outdoor/outdoor_035_kite.png",
+    "arabic_label": "طائرة ورقية",
+    "category": "outdoor",
+    "english_keyword": "kite",
+    "source": "kite.svg"
+  },
+  {
+    "file": "outdoor/outdoor_036_tractor.png",
+    "arabic_label": "جرار",
+    "category": "outdoor",
+    "english_keyword": "tractor",
+    "source": "tractor.svg"
+  },
+  {
+    "file": "outdoor/outdoor_037_ambulance.png",
+    "arabic_label": "إسعاف",
+    "category": "outdoor",
+    "english_keyword": "ambulance",
+    "source": "ambulance.svg"
+  },
+  {
+    "file": "outdoor/outdoor_038_fire_engine.png",
+    "arabic_label": "شاحنة إطفاء",
+    "category": "outdoor",
+    "english_keyword": "fire_engine",
+    "source": "fire_engine.svg"
+  },
+  {
+    "file": "outdoor/outdoor_039_boat.png",
+    "arabic_label": "قارب",
+    "category": "outdoor",
+    "english_keyword": "boat",
+    "source": "boat.svg"
+  },
+  {
+    "file": "outdoor/outdoor_040_grass.png",
+    "arabic_label": "عشب",
+    "category": "outdoor",
+    "english_keyword": "grass",
+    "source": "grass.svg"
+  },
+  {
+    "file": "outdoor/outdoor_041_leaf.png",
+    "arabic_label": "ورقة شجر",
+    "category": "outdoor",
+    "english_keyword": "leaf",
+    "source": "leaf.svg"
+  },
+  {
+    "file": "outdoor/outdoor_042_mushroom.png",
+    "arabic_label": "فطر",
+    "category": "outdoor",
+    "english_keyword": "mushroom",
+    "source": "mushroom.svg"
+  },
+  {
+    "file": "outdoor/outdoor_043_frog.png",
+    "arabic_label": "ضفدع",
+    "category": "outdoor",
+    "english_keyword": "frog",
+    "source": "frog.svg"
+  },
+  {
+    "file": "outdoor/outdoor_044_rabbit.png",
+    "arabic_label": "أرنب",
+    "category": "outdoor",
+    "english_keyword": "rabbit",
+    "source": "rabbit.svg"
+  },
+  {
+    "file": "outdoor/outdoor_045_spider.png",
+    "arabic_label": "عنكبوت",
+    "category": "outdoor",
+    "english_keyword": "spider",
+    "source": "spider.svg"
+  },
+  {
+    "file": "outdoor/outdoor_046_snail.png",
+    "arabic_label": "حلزون",
+    "category": "outdoor",
+    "english_keyword": "snail",
+    "source": "snail.svg"
+  },
+  {
+    "file": "outdoor/outdoor_047_turtle.png",
+    "arabic_label": "سلحفاة",
+    "category": "outdoor",
+    "english_keyword": "turtle",
+    "source": "turtle.svg"
+  },
+  {
+    "file": "outdoor/outdoor_048_penguin.png",
+    "arabic_label": "بطريق",
+    "category": "outdoor",
+    "english_keyword": "penguin",
+    "source": "penguin.svg"
+  },
+  {
+    "file": "outdoor/outdoor_049_lion.png",
+    "arabic_label": "أسد",
+    "category": "outdoor",
+    "english_keyword": "lion",
+    "source": "lion.svg"
+  },
+  {
+    "file": "outdoor/outdoor_050_elephant.png",
+    "arabic_label": "فيل",
+    "category": "outdoor",
+    "english_keyword": "elephant",
+    "source": "elephant.svg"
+  },
+  {
+    "file": "outdoor/outdoor_051_giraffe.png",
+    "arabic_label": "زرافة",
+    "category": "outdoor",
+    "english_keyword": "giraffe",
+    "source": "giraffe.svg"
+  },
+  {
+    "file": "outdoor/outdoor_052_rainbow.png",
+    "arabic_label": "قوس قزح",
+    "category": "outdoor",
+    "english_keyword": "rainbow",
+    "source": "rainbow.svg"
+  },
+  {
+    "file": "emotions/emotions_001_happy.png",
+    "arabic_label": "سعيد",
+    "category": "emotions",
+    "english_keyword": "happy",
+    "source": "happy_man.svg"
+  },
+  {
+    "file": "emotions/emotions_002_sad.png",
+    "arabic_label": "حزين",
+    "category": "emotions",
+    "english_keyword": "sad",
+    "source": "sad_man.svg"
+  },
+  {
+    "file": "emotions/emotions_003_angry.png",
+    "arabic_label": "غاضب",
+    "category": "emotions",
+    "english_keyword": "angry",
+    "source": "angry_man.svg"
+  },
+  {
+    "file": "emotions/emotions_004_scared.png",
+    "arabic_label": "خائف (الرمز: قلق — أقرب بديل)",
+    "category": "emotions",
+    "english_keyword": "scared",
+    "source": "worried_man.svg"
+  },
+  {
+    "file": "emotions/emotions_005_surprised.png",
+    "arabic_label": "متفاجئ",
+    "category": "emotions",
+    "english_keyword": "surprised",
+    "source": "surprised_man.svg"
+  },
+  {
+    "file": "emotions/emotions_006_tired.png",
+    "arabic_label": "متعب (الرمز: تثاؤب — أقرب بديل)",
+    "category": "emotions",
+    "english_keyword": "tired",
+    "source": "yawn_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_007_hungry.png",
+    "arabic_label": "جائع",
+    "category": "emotions",
+    "english_keyword": "hungry",
+    "source": "hungry.svg"
+  },
+  {
+    "file": "emotions/emotions_008_thirsty.png",
+    "arabic_label": "عطشان",
+    "category": "emotions",
+    "english_keyword": "thirsty",
+    "source": "thirsty.svg"
+  },
+  {
+    "file": "emotions/emotions_009_want.png",
+    "arabic_label": "أريد",
+    "category": "emotions",
+    "english_keyword": "want",
+    "source": "want_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_010_need_help.png",
+    "arabic_label": "أحتاج مساعدة",
+    "category": "emotions",
+    "english_keyword": "need_help",
+    "source": "help_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_011_finished.png",
+    "arabic_label": "انتهيت",
+    "category": "emotions",
+    "english_keyword": "finished",
+    "source": "finish.svg"
+  },
+  {
+    "file": "emotions/emotions_012_yes.png",
+    "arabic_label": "نعم (الرمز: إبهام مرفوع — أقرب بديل)",
+    "category": "emotions",
+    "english_keyword": "yes",
+    "source": "thumbs.svg"
+  },
+  {
+    "file": "emotions/emotions_013_no.png",
+    "arabic_label": "لا (الرمز: علامة X — أقرب بديل)",
+    "category": "emotions",
+    "english_keyword": "no",
+    "source": "cross.svg"
+  },
+  {
+    "file": "emotions/emotions_014_wait.png",
+    "arabic_label": "انتظر",
+    "category": "emotions",
+    "english_keyword": "wait",
+    "source": "wait_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_015_come_here.png",
+    "arabic_label": "تعال هنا",
+    "category": "emotions",
+    "english_keyword": "come_here",
+    "source": "come_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_016_love.png",
+    "arabic_label": "حب",
+    "category": "emotions",
+    "english_keyword": "love",
+    "source": "heart.svg"
+  },
+  {
+    "file": "emotions/emotions_017_laugh.png",
+    "arabic_label": "يضحك",
+    "category": "emotions",
+    "english_keyword": "laugh",
+    "source": "laughing_man.svg"
+  },
+  {
+    "file": "emotions/emotions_018_calm.png",
+    "arabic_label": "هادئ (الرمز: هدوء — أقرب بديل)",
+    "category": "emotions",
+    "english_keyword": "calm",
+    "source": "quiet.svg"
+  },
+  {
+    "file": "emotions/emotions_019_excited.png",
+    "arabic_label": "متحمس",
+    "category": "emotions",
+    "english_keyword": "excited",
+    "source": "excited_man.svg"
+  },
+  {
+    "file": "emotions/emotions_020_excited_girl.png",
+    "arabic_label": "متحمسة",
+    "category": "emotions",
+    "english_keyword": "excited_girl",
+    "source": "excited_lady.svg"
+  },
+  {
+    "file": "emotions/emotions_021_happy_girl.png",
+    "arabic_label": "سعيدة",
+    "category": "emotions",
+    "english_keyword": "happy_girl",
+    "source": "happy_lady.svg"
+  },
+  {
+    "file": "emotions/emotions_022_sad_girl.png",
+    "arabic_label": "حزينة",
+    "category": "emotions",
+    "english_keyword": "sad_girl",
+    "source": "sad_lady.svg"
+  },
+  {
+    "file": "emotions/emotions_023_angry_girl.png",
+    "arabic_label": "غاضبة",
+    "category": "emotions",
+    "english_keyword": "angry_girl",
+    "source": "angry_lady.svg"
+  },
+  {
+    "file": "emotions/emotions_024_surprised_girl.png",
+    "arabic_label": "متفاجئة",
+    "category": "emotions",
+    "english_keyword": "surprised_girl",
+    "source": "surprised_lady.svg"
+  },
+  {
+    "file": "emotions/emotions_025_laugh_girl.png",
+    "arabic_label": "تضحك",
+    "category": "emotions",
+    "english_keyword": "laugh_girl",
+    "source": "laughing_lady.svg"
+  },
+  {
+    "file": "emotions/emotions_026_worried_girl.png",
+    "arabic_label": "قلقة",
+    "category": "emotions",
+    "english_keyword": "worried_girl",
+    "source": "worried_lady.svg"
+  },
+  {
+    "file": "emotions/emotions_027_hug.png",
+    "arabic_label": "عناق",
+    "category": "emotions",
+    "english_keyword": "hug",
+    "source": "hug_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_028_smile.png",
+    "arabic_label": "ابتسامة",
+    "category": "emotions",
+    "english_keyword": "smile",
+    "source": "smile_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_029_clap.png",
+    "arabic_label": "تصفيق",
+    "category": "emotions",
+    "english_keyword": "clap",
+    "source": "clap_hands_,_to.svg"
+  },
+  {
+    "file": "emotions/emotions_030_good.png",
+    "arabic_label": "جيد",
+    "category": "emotions",
+    "english_keyword": "good",
+    "source": "good.svg"
+  },
+  {
+    "file": "emotions/emotions_031_bad.png",
+    "arabic_label": "سيئ",
+    "category": "emotions",
+    "english_keyword": "bad",
+    "source": "bad.svg"
+  },
+  {
+    "file": "emotions/emotions_032_more.png",
+    "arabic_label": "المزيد",
+    "category": "emotions",
+    "english_keyword": "more",
+    "source": "more.svg"
+  },
+  {
+    "file": "emotions/emotions_033_hot.png",
+    "arabic_label": "حار",
+    "category": "emotions",
+    "english_keyword": "hot",
+    "source": "hot.svg"
+  },
+  {
+    "file": "emotions/emotions_034_lucky.png",
+    "arabic_label": "محظوظ",
+    "category": "emotions",
+    "english_keyword": "lucky",
+    "source": "lucky.svg"
+  },
+  {
+    "file": "emotions/emotions_035_baby.png",
+    "arabic_label": "رضيع",
+    "category": "emotions",
+    "english_keyword": "baby",
+    "source": "baby.svg"
+  },
+  {
+    "file": "emotions/emotions_036_young.png",
+    "arabic_label": "صغير",
+    "category": "emotions",
+    "english_keyword": "young",
+    "source": "young.svg"
+  },
+  {
+    "file": "emotions/emotions_037_strong.png",
+    "arabic_label": "قوي",
+    "category": "emotions",
+    "english_keyword": "strong",
+    "source": "strong.svg"
+  },
+  {
+    "file": "emotions/emotions_038_awake.png",
+    "arabic_label": "مستيقظ",
+    "category": "emotions",
+    "english_keyword": "awake",
+    "source": "awake.svg"
+  },
+  {
+    "file": "emotions/emotions_039_hello.png",
+    "arabic_label": "مرحبا",
+    "category": "emotions",
+    "english_keyword": "hello",
+    "source": "hello.svg"
+  },
+  {
+    "file": "emotions/emotions_040_kiss.png",
+    "arabic_label": "قبلة",
+    "category": "emotions",
+    "english_keyword": "kiss",
+    "source": "blow_kiss_,_to.svg"
+  }
+]
