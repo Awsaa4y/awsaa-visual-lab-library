@@ -1925,5 +1925,3757 @@
   "category": "emotions",
   "english_keyword": "hair",
   "source": "curly_hair.svg"
+ },
+ {
+  "file": "sensory/act1_img1.png",
+  "arabic_label": "دفع الحائط بهدوء - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act1_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act1_img2.png",
+  "arabic_label": "دفع الحائط بهدوء - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act1_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act1_img3.png",
+  "arabic_label": "دفع الحائط بهدوء - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act1_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act1_img4.png",
+  "arabic_label": "دفع الحائط بهدوء - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act1_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act10_img1.png",
+  "arabic_label": "دفع صندوق فارغ - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act10_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act10_img2.png",
+  "arabic_label": "دفع صندوق فارغ - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act10_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act10_img3.png",
+  "arabic_label": "دفع صندوق فارغ - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act10_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act10_img4.png",
+  "arabic_label": "دفع صندوق فارغ - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act10_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act100_img1.webp",
+  "arabic_label": "مكعبات أولًا ثم اختيار وظيفي وإنهاء المهمة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act100_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act100_img2.webp",
+  "arabic_label": "مكعبات أولًا ثم اختيار وظيفي وإنهاء المهمة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act100_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act100_img3.webp",
+  "arabic_label": "مكعبات أولًا ثم اختيار وظيفي وإنهاء المهمة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act100_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act100_img4.webp",
+  "arabic_label": "مكعبات أولًا ثم اختيار وظيفي وإنهاء المهمة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act100_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act11_img1.png",
+  "arabic_label": "التأرجح البطيء أمامًا وخلفًا - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act11_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act11_img2.png",
+  "arabic_label": "التأرجح البطيء أمامًا وخلفًا - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act11_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act11_img3.png",
+  "arabic_label": "التأرجح البطيء أمامًا وخلفًا - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act11_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act11_img4.png",
+  "arabic_label": "التأرجح البطيء أمامًا وخلفًا - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act11_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act12_img1.png",
+  "arabic_label": "المشي على خط منحني - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act12_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act12_img2.png",
+  "arabic_label": "المشي على خط منحني - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act12_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act12_img3.png",
+  "arabic_label": "المشي على خط منحني - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act12_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act12_img4.png",
+  "arabic_label": "المشي على خط منحني - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act12_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act13_img1.png",
+  "arabic_label": "التوازن على سطح حسي بدعم الكبار - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act13_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act13_img2.png",
+  "arabic_label": "التوازن على سطح حسي بدعم الكبار - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act13_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act13_img3.png",
+  "arabic_label": "التوازن على سطح حسي بدعم الكبار - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act13_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act13_img4.png",
+  "arabic_label": "التوازن على سطح حسي بدعم الكبار - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act13_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act14_img1.png",
+  "arabic_label": "التنقل بين النقاط الملونة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act14_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act14_img2.png",
+  "arabic_label": "التنقل بين النقاط الملونة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act14_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act14_img3.png",
+  "arabic_label": "التنقل بين النقاط الملونة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act14_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act14_img4.png",
+  "arabic_label": "التنقل بين النقاط الملونة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act14_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act15_img1.png",
+  "arabic_label": "الدوران المحدود مع التوقف - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act15_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act15_img2.png",
+  "arabic_label": "الدوران المحدود مع التوقف - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act15_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act15_img3.png",
+  "arabic_label": "الدوران المحدود مع التوقف - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act15_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act15_img4.png",
+  "arabic_label": "الدوران المحدود مع التوقف - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act15_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act16_img1.png",
+  "arabic_label": "الصعود والنزول على درجة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act16_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act16_img2.png",
+  "arabic_label": "الصعود والنزول على درجة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act16_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act16_img3.png",
+  "arabic_label": "الصعود والنزول على درجة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act16_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act16_img4.png",
+  "arabic_label": "الصعود والنزول على درجة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act16_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act17_img1.png",
+  "arabic_label": "مسار الزحف المنظم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act17_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act17_img2.png",
+  "arabic_label": "مسار الزحف المنظم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act17_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act17_img3.png",
+  "arabic_label": "مسار الزحف المنظم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act17_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act17_img4.png",
+  "arabic_label": "مسار الزحف المنظم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act17_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act18_img1.png",
+  "arabic_label": "المشي كعبًا لأخمص - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act18_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act18_img2.png",
+  "arabic_label": "المشي كعبًا لأخمص - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act18_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act18_img3.png",
+  "arabic_label": "المشي كعبًا لأخمص - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act18_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act18_img4.png",
+  "arabic_label": "المشي كعبًا لأخمص - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act18_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act19_img1.png",
+  "arabic_label": "التوازن على الكرة العلاجية بدعم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act19_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act19_img2.png",
+  "arabic_label": "التوازن على الكرة العلاجية بدعم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act19_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act19_img3.png",
+  "arabic_label": "التوازن على الكرة العلاجية بدعم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act19_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act19_img4.png",
+  "arabic_label": "التوازن على الكرة العلاجية بدعم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act19_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act2_img1.png",
+  "arabic_label": "حمل سلة خفيفة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act2_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act2_img2.png",
+  "arabic_label": "حمل سلة خفيفة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act2_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act2_img3.png",
+  "arabic_label": "حمل سلة خفيفة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act2_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act2_img4.png",
+  "arabic_label": "حمل سلة خفيفة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act2_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act20_img1.png",
+  "arabic_label": "تغيير الوضعية بإشارة بصرية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act20_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act20_img2.png",
+  "arabic_label": "تغيير الوضعية بإشارة بصرية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act20_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act20_img3.png",
+  "arabic_label": "تغيير الوضعية بإشارة بصرية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act20_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act20_img4.png",
+  "arabic_label": "تغيير الوضعية بإشارة بصرية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act20_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act21_img1.webp",
+  "arabic_label": "صندوق الملمس الآمن - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act21_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act21_img2.webp",
+  "arabic_label": "صندوق الملمس الآمن - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act21_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act21_img3.webp",
+  "arabic_label": "صندوق الملمس الآمن - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act21_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act21_img4.webp",
+  "arabic_label": "صندوق الملمس الآمن - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act21_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act22_img1.webp",
+  "arabic_label": "الرسم بالرغوة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act22_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act22_img2.webp",
+  "arabic_label": "الرسم بالرغوة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act22_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act22_img3.webp",
+  "arabic_label": "الرسم بالرغوة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act22_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act22_img4.webp",
+  "arabic_label": "الرسم بالرغوة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act22_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act23_img1.webp",
+  "arabic_label": "ضغط العجين ولفّه - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act23_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act23_img2.webp",
+  "arabic_label": "ضغط العجين ولفّه - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act23_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act23_img3.webp",
+  "arabic_label": "ضغط العجين ولفّه - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act23_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act23_img4.webp",
+  "arabic_label": "ضغط العجين ولفّه - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act23_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act24_img1.webp",
+  "arabic_label": "مطابقة الأقمشة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act24_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act24_img2.webp",
+  "arabic_label": "مطابقة الأقمشة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act24_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act24_img3.webp",
+  "arabic_label": "مطابقة الأقمشة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act24_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act24_img4.webp",
+  "arabic_label": "مطابقة الأقمشة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act24_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act25_img1.webp",
+  "arabic_label": "غسل الألعاب بالماء الدافئ - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act25_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act25_img2.webp",
+  "arabic_label": "غسل الألعاب بالماء الدافئ - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act25_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act25_img3.webp",
+  "arabic_label": "غسل الألعاب بالماء الدافئ - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act25_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act25_img4.webp",
+  "arabic_label": "غسل الألعاب بالماء الدافئ - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act25_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act26_img1.webp",
+  "arabic_label": "مسار اللمس بالقدمين - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act26_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act26_img2.webp",
+  "arabic_label": "مسار اللمس بالقدمين - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act26_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act26_img3.webp",
+  "arabic_label": "مسار اللمس بالقدمين - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act26_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act26_img4.webp",
+  "arabic_label": "مسار اللمس بالقدمين - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act26_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act27_img1.webp",
+  "arabic_label": "فرز الأشياء الناعمة والخشنة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act27_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act27_img2.webp",
+  "arabic_label": "فرز الأشياء الناعمة والخشنة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act27_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act27_img3.webp",
+  "arabic_label": "فرز الأشياء الناعمة والخشنة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act27_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act27_img4.webp",
+  "arabic_label": "فرز الأشياء الناعمة والخشنة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act27_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act28_img1.webp",
+  "arabic_label": "بناء برج من الإسفنج - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act28_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act28_img2.webp",
+  "arabic_label": "بناء برج من الإسفنج - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act28_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act28_img3.webp",
+  "arabic_label": "بناء برج من الإسفنج - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act28_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act28_img4.webp",
+  "arabic_label": "بناء برج من الإسفنج - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act28_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act29_img1.webp",
+  "arabic_label": "ضغط المنشفة وعصرها - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act29_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act29_img2.webp",
+  "arabic_label": "ضغط المنشفة وعصرها - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act29_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act29_img3.webp",
+  "arabic_label": "ضغط المنشفة وعصرها - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act29_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act29_img4.webp",
+  "arabic_label": "ضغط المنشفة وعصرها - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act29_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act3_img1.png",
+  "arabic_label": "سحب الحبل مع شريك - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act3_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act3_img2.png",
+  "arabic_label": "سحب الحبل مع شريك - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act3_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act3_img3.png",
+  "arabic_label": "سحب الحبل مع شريك - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act3_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act3_img4.png",
+  "arabic_label": "سحب الحبل مع شريك - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act3_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act30_img1.webp",
+  "arabic_label": "استكشاف فرشاة ناعمة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act30_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act30_img2.webp",
+  "arabic_label": "استكشاف فرشاة ناعمة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act30_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act30_img3.webp",
+  "arabic_label": "استكشاف فرشاة ناعمة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act30_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act30_img4.webp",
+  "arabic_label": "استكشاف فرشاة ناعمة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act30_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act31_img1.webp",
+  "arabic_label": "مطابقة البطاقات والرموز على الطاولة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act31_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act31_img2.webp",
+  "arabic_label": "مطابقة البطاقات والرموز على الطاولة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act31_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act31_img3.webp",
+  "arabic_label": "مطابقة البطاقات والرموز على الطاولة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act31_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act31_img4.webp",
+  "arabic_label": "مطابقة البطاقات والرموز على الطاولة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act31_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act32_img1.webp",
+  "arabic_label": "تتبع مسار بصري - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act32_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act32_img2.webp",
+  "arabic_label": "تتبع مسار بصري - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act32_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act32_img3.webp",
+  "arabic_label": "تتبع مسار بصري - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act32_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act32_img4.webp",
+  "arabic_label": "تتبع مسار بصري - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act32_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act33_img1.webp",
+  "arabic_label": "مطابقة الأشكال - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act33_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act33_img2.webp",
+  "arabic_label": "مطابقة الأشكال - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act33_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act33_img3.webp",
+  "arabic_label": "مطابقة الأشكال - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act33_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act33_img4.webp",
+  "arabic_label": "مطابقة الأشكال - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act33_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act34_img1.webp",
+  "arabic_label": "مطابقة الأشكال والألوان مع تعزيز بصري - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act34_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act34_img2.webp",
+  "arabic_label": "مطابقة الأشكال والألوان مع تعزيز بصري - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act34_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act34_img3.webp",
+  "arabic_label": "مطابقة الأشكال والألوان مع تعزيز بصري - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act34_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act34_img4.webp",
+  "arabic_label": "مطابقة الأشكال والألوان مع تعزيز بصري - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act34_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act35_img1.webp",
+  "arabic_label": "بطاقات من كبير إلى صغير - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act35_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act35_img2.webp",
+  "arabic_label": "بطاقات من كبير إلى صغير - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act35_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act35_img3.webp",
+  "arabic_label": "بطاقات من كبير إلى صغير - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act35_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act35_img4.webp",
+  "arabic_label": "بطاقات من كبير إلى صغير - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act35_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act36_img1.webp",
+  "arabic_label": "وميض الضوء الهادئ - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act36_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act36_img2.webp",
+  "arabic_label": "وميض الضوء الهادئ - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act36_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act36_img3.webp",
+  "arabic_label": "وميض الضوء الهادئ - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act36_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act36_img4.webp",
+  "arabic_label": "وميض الضوء الهادئ - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act36_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act37_img1.webp",
+  "arabic_label": "نسخ نموذج بسيط - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act37_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act37_img2.webp",
+  "arabic_label": "نسخ نموذج بسيط - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act37_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act37_img3.webp",
+  "arabic_label": "نسخ نموذج بسيط - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act37_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act37_img4.webp",
+  "arabic_label": "نسخ نموذج بسيط - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act37_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act38_img1.webp",
+  "arabic_label": "الجدول البصري مع المؤقت - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act38_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act38_img2.webp",
+  "arabic_label": "الجدول البصري مع المؤقت - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act38_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act38_img3.webp",
+  "arabic_label": "الجدول البصري مع المؤقت - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act38_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act38_img4.webp",
+  "arabic_label": "الجدول البصري مع المؤقت - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act38_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act39_img1.webp",
+  "arabic_label": "فرز الصور حسب الفئة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act39_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act39_img2.webp",
+  "arabic_label": "فرز الصور حسب الفئة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act39_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act39_img3.webp",
+  "arabic_label": "فرز الصور حسب الفئة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act39_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act39_img4.webp",
+  "arabic_label": "فرز الصور حسب الفئة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act39_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act4_img1.png",
+  "arabic_label": "نقل الوسائد - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act4_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act4_img2.png",
+  "arabic_label": "نقل الوسائد - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act4_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act4_img3.png",
+  "arabic_label": "نقل الوسائد - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act4_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act4_img4.png",
+  "arabic_label": "نقل الوسائد - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act4_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act40_img1.webp",
+  "arabic_label": "استراحة بصرية منظمة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act40_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act40_img2.webp",
+  "arabic_label": "استراحة بصرية منظمة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act40_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act40_img3.webp",
+  "arabic_label": "استراحة بصرية منظمة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act40_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act40_img4.webp",
+  "arabic_label": "استراحة بصرية منظمة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act40_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act41_img1.webp",
+  "arabic_label": "تمييز صوت البداية والنهاية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act41_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act41_img2.webp",
+  "arabic_label": "تمييز صوت البداية والنهاية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act41_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act41_img3.webp",
+  "arabic_label": "تمييز صوت البداية والنهاية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act41_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act41_img4.webp",
+  "arabic_label": "تمييز صوت البداية والنهاية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act41_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act42_img1.webp",
+  "arabic_label": "الاستماع لصوت منخفض - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act42_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act42_img2.webp",
+  "arabic_label": "الاستماع لصوت منخفض - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act42_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act42_img3.webp",
+  "arabic_label": "الاستماع لصوت منخفض - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act42_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act42_img4.webp",
+  "arabic_label": "الاستماع لصوت منخفض - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act42_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act43_img1.webp",
+  "arabic_label": "إيقاع التصفيق البطيء - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act43_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act43_img2.webp",
+  "arabic_label": "إيقاع التصفيق البطيء - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act43_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act43_img3.webp",
+  "arabic_label": "إيقاع التصفيق البطيء - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act43_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act43_img4.webp",
+  "arabic_label": "إيقاع التصفيق البطيء - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act43_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act44_img1.webp",
+  "arabic_label": "اختيار سماعات الحماية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act44_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act44_img2.webp",
+  "arabic_label": "اختيار سماعات الحماية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act44_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act44_img3.webp",
+  "arabic_label": "اختيار سماعات الحماية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act44_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act44_img4.webp",
+  "arabic_label": "اختيار سماعات الحماية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act44_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act45_img1.webp",
+  "arabic_label": "مطابقة أصوات مألوفة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act45_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act45_img2.webp",
+  "arabic_label": "مطابقة أصوات مألوفة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act45_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act45_img3.webp",
+  "arabic_label": "مطابقة أصوات مألوفة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act45_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act45_img4.webp",
+  "arabic_label": "مطابقة أصوات مألوفة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act45_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act46_img1.webp",
+  "arabic_label": "التوقف عند الإشارة الصوتية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act46_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act46_img2.webp",
+  "arabic_label": "التوقف عند الإشارة الصوتية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act46_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act46_img3.webp",
+  "arabic_label": "التوقف عند الإشارة الصوتية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act46_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act46_img4.webp",
+  "arabic_label": "التوقف عند الإشارة الصوتية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act46_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act47_img1.webp",
+  "arabic_label": "صندوق الصوت الأبيض الهادئ - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act47_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act47_img2.webp",
+  "arabic_label": "صندوق الصوت الأبيض الهادئ - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act47_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act47_img3.webp",
+  "arabic_label": "صندوق الصوت الأبيض الهادئ - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act47_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act47_img4.webp",
+  "arabic_label": "صندوق الصوت الأبيض الهادئ - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act47_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act48_img1.webp",
+  "arabic_label": "قراءة بإيقاع متوقع - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act48_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act48_img2.webp",
+  "arabic_label": "قراءة بإيقاع متوقع - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act48_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act48_img3.webp",
+  "arabic_label": "قراءة بإيقاع متوقع - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act48_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act48_img4.webp",
+  "arabic_label": "قراءة بإيقاع متوقع - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act48_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act49_img1.webp",
+  "arabic_label": "تمييز صوت المتحدث - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act49_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act49_img2.webp",
+  "arabic_label": "تمييز صوت المتحدث - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act49_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act49_img3.webp",
+  "arabic_label": "تمييز صوت المتحدث - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act49_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act49_img4.webp",
+  "arabic_label": "تمييز صوت المتحدث - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act49_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act5_img1.png",
+  "arabic_label": "ضغط الكفين والتنفس - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act5_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act5_img2.png",
+  "arabic_label": "ضغط الكفين والتنفس - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act5_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act5_img3.png",
+  "arabic_label": "ضغط الكفين والتنفس - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act5_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act5_img4.png",
+  "arabic_label": "ضغط الكفين والتنفس - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act5_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act50_img1.webp",
+  "arabic_label": "جلسة هدوء سمعي قصيرة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act50_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act50_img2.webp",
+  "arabic_label": "جلسة هدوء سمعي قصيرة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act50_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act50_img3.webp",
+  "arabic_label": "جلسة هدوء سمعي قصيرة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act50_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act50_img4.webp",
+  "arabic_label": "جلسة هدوء سمعي قصيرة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act50_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act51_img1.webp",
+  "arabic_label": "شم روائح مألوفة باختيار - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act51_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act51_img2.webp",
+  "arabic_label": "شم روائح مألوفة باختيار - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act51_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act51_img3.webp",
+  "arabic_label": "شم روائح مألوفة باختيار - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act51_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act51_img4.webp",
+  "arabic_label": "شم روائح مألوفة باختيار - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act51_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act52_img1.webp",
+  "arabic_label": "مطابقة الرائحة بالصورة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act52_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act52_img2.webp",
+  "arabic_label": "مطابقة الرائحة بالصورة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act52_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act52_img3.webp",
+  "arabic_label": "مطابقة الرائحة بالصورة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act52_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act52_img4.webp",
+  "arabic_label": "مطابقة الرائحة بالصورة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act52_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act53_img1.webp",
+  "arabic_label": "تذوق قوام جديد تدريجيًا - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act53_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act53_img2.webp",
+  "arabic_label": "تذوق قوام جديد تدريجيًا - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act53_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act53_img3.webp",
+  "arabic_label": "تذوق قوام جديد تدريجيًا - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act53_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act53_img4.webp",
+  "arabic_label": "تذوق قوام جديد تدريجيًا - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act53_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act54_img1.webp",
+  "arabic_label": "طبق ألوان وفواكه - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act54_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act54_img2.webp",
+  "arabic_label": "طبق ألوان وفواكه - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act54_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act54_img3.webp",
+  "arabic_label": "طبق ألوان وفواكه - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act54_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act54_img4.webp",
+  "arabic_label": "طبق ألوان وفواكه - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act54_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act55_img1.webp",
+  "arabic_label": "تحديد الحلو والمالح - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act55_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act55_img2.webp",
+  "arabic_label": "تحديد الحلو والمالح - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act55_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act55_img3.webp",
+  "arabic_label": "تحديد الحلو والمالح - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act55_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act55_img4.webp",
+  "arabic_label": "تحديد الحلو والمالح - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act55_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act56_img1.webp",
+  "arabic_label": "تنفس قرب رائحة مريحة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act56_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act56_img2.webp",
+  "arabic_label": "تنفس قرب رائحة مريحة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act56_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act56_img3.webp",
+  "arabic_label": "تنفس قرب رائحة مريحة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act56_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act56_img4.webp",
+  "arabic_label": "تنفس قرب رائحة مريحة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act56_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act57_img1.webp",
+  "arabic_label": "اختيار درجة حرارة الشراب - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act57_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act57_img2.webp",
+  "arabic_label": "اختيار درجة حرارة الشراب - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act57_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act57_img3.webp",
+  "arabic_label": "اختيار درجة حرارة الشراب - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act57_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act57_img4.webp",
+  "arabic_label": "اختيار درجة حرارة الشراب - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act57_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act58_img1.webp",
+  "arabic_label": "توسيع قائمة الطعام المصور - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act58_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act58_img2.webp",
+  "arabic_label": "توسيع قائمة الطعام المصور - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act58_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act58_img3.webp",
+  "arabic_label": "توسيع قائمة الطعام المصور - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act58_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act58_img4.webp",
+  "arabic_label": "توسيع قائمة الطعام المصور - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act58_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act59_img1.webp",
+  "arabic_label": "غسل اليدين قبل الوجبة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act59_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act59_img2.webp",
+  "arabic_label": "غسل اليدين قبل الوجبة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act59_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act59_img3.webp",
+  "arabic_label": "غسل اليدين قبل الوجبة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act59_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act59_img4.webp",
+  "arabic_label": "غسل اليدين قبل الوجبة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act59_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act6_img1.png",
+  "arabic_label": "المشي كالدب - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act6_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act6_img2.png",
+  "arabic_label": "المشي كالدب - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act6_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act6_img3.png",
+  "arabic_label": "المشي كالدب - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act6_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act6_img4.png",
+  "arabic_label": "المشي كالدب - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act6_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act60_img1.webp",
+  "arabic_label": "استراحة من رائحة مزعجة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act60_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act60_img2.webp",
+  "arabic_label": "استراحة من رائحة مزعجة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act60_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act60_img3.webp",
+  "arabic_label": "استراحة من رائحة مزعجة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act60_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act60_img4.webp",
+  "arabic_label": "استراحة من رائحة مزعجة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act60_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act61_img1.webp",
+  "arabic_label": "خريطة إشارات الجسم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act61_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act61_img2.webp",
+  "arabic_label": "خريطة إشارات الجسم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act61_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act61_img3.webp",
+  "arabic_label": "خريطة إشارات الجسم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act61_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act61_img4.webp",
+  "arabic_label": "خريطة إشارات الجسم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act61_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act62_img1.webp",
+  "arabic_label": "تحديد إشارات الجسم واختيار المساعدة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act62_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act62_img2.webp",
+  "arabic_label": "تحديد إشارات الجسم واختيار المساعدة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act62_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act62_img3.webp",
+  "arabic_label": "تحديد إشارات الجسم واختيار المساعدة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act62_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act62_img4.webp",
+  "arabic_label": "تحديد إشارات الجسم واختيار المساعدة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act62_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act63_img1.webp",
+  "arabic_label": "اختيار بصري وإشارة جسمية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act63_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act63_img2.webp",
+  "arabic_label": "اختيار بصري وإشارة جسمية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act63_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act63_img3.webp",
+  "arabic_label": "اختيار بصري وإشارة جسمية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act63_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act63_img4.webp",
+  "arabic_label": "اختيار بصري وإشارة جسمية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act63_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act64_img1.webp",
+  "arabic_label": "تحديد موضع الإحساس واختيار الاسترخاء - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act64_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act64_img2.webp",
+  "arabic_label": "تحديد موضع الإحساس واختيار الاسترخاء - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act64_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act64_img3.webp",
+  "arabic_label": "تحديد موضع الإحساس واختيار الاسترخاء - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act64_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act64_img4.webp",
+  "arabic_label": "تحديد موضع الإحساس واختيار الاسترخاء - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act64_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act65_img1.webp",
+  "arabic_label": "اختيار بطاقة لإشارة الجسم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act65_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act65_img2.webp",
+  "arabic_label": "اختيار بطاقة لإشارة الجسم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act65_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act65_img3.webp",
+  "arabic_label": "اختيار بطاقة لإشارة الجسم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act65_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act65_img4.webp",
+  "arabic_label": "اختيار بطاقة لإشارة الجسم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act65_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act66_img1.webp",
+  "arabic_label": "مطابقة بطاقة العضو والإحساس - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act66_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act66_img2.webp",
+  "arabic_label": "مطابقة بطاقة العضو والإحساس - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act66_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act66_img3.webp",
+  "arabic_label": "مطابقة بطاقة العضو والإحساس - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act66_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act66_img4.webp",
+  "arabic_label": "مطابقة بطاقة العضو والإحساس - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act66_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act67_img1.webp",
+  "arabic_label": "قراءة إشارات الجسم والانتقال إلى الهدوء - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act67_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act67_img2.webp",
+  "arabic_label": "قراءة إشارات الجسم والانتقال إلى الهدوء - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act67_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act67_img3.webp",
+  "arabic_label": "قراءة إشارات الجسم والانتقال إلى الهدوء - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act67_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act67_img4.webp",
+  "arabic_label": "قراءة إشارات الجسم والانتقال إلى الهدوء - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act67_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act68_img1.webp",
+  "arabic_label": "الانتقال بجدول الآن ثم التالي - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act68_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act68_img2.webp",
+  "arabic_label": "الانتقال بجدول الآن ثم التالي - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act68_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act68_img3.webp",
+  "arabic_label": "الانتقال بجدول الآن ثم التالي - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act68_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act68_img4.webp",
+  "arabic_label": "الانتقال بجدول الآن ثم التالي - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act68_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act69_img1.webp",
+  "arabic_label": "خريطة الجسم واختيار بطاقة الإحساس - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act69_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act69_img2.webp",
+  "arabic_label": "خريطة الجسم واختيار بطاقة الإحساس - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act69_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act69_img3.webp",
+  "arabic_label": "خريطة الجسم واختيار بطاقة الإحساس - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act69_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act69_img4.webp",
+  "arabic_label": "خريطة الجسم واختيار بطاقة الإحساس - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act69_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act7_img1.png",
+  "arabic_label": "دحرجة الكرة الثقيلة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act7_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act7_img2.png",
+  "arabic_label": "دحرجة الكرة الثقيلة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act7_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act7_img3.png",
+  "arabic_label": "دحرجة الكرة الثقيلة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act7_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act7_img4.png",
+  "arabic_label": "دحرجة الكرة الثقيلة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act7_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act70_img1.webp",
+  "arabic_label": "خريطة الجسم من الإشارة إلى الراحة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act70_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act70_img2.webp",
+  "arabic_label": "خريطة الجسم من الإشارة إلى الراحة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act70_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act70_img3.webp",
+  "arabic_label": "خريطة الجسم من الإشارة إلى الراحة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act70_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act70_img4.webp",
+  "arabic_label": "خريطة الجسم من الإشارة إلى الراحة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act70_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act71_img1.webp",
+  "arabic_label": "تسلسل اجتماعي مصور - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act71_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act71_img2.webp",
+  "arabic_label": "تسلسل اجتماعي مصور - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act71_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act71_img3.webp",
+  "arabic_label": "تسلسل اجتماعي مصور - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act71_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act71_img4.webp",
+  "arabic_label": "تسلسل اجتماعي مصور - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act71_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act72_img1.webp",
+  "arabic_label": "قصة مصورة للانضمام إلى المجموعة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act72_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act72_img2.webp",
+  "arabic_label": "قصة مصورة للانضمام إلى المجموعة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act72_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act72_img3.webp",
+  "arabic_label": "قصة مصورة للانضمام إلى المجموعة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act72_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act72_img4.webp",
+  "arabic_label": "قصة مصورة للانضمام إلى المجموعة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act72_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act73_img1.webp",
+  "arabic_label": "بطاقة أحتاج مساعدة ثم العودة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act73_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act73_img2.webp",
+  "arabic_label": "بطاقة أحتاج مساعدة ثم العودة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act73_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act73_img3.webp",
+  "arabic_label": "بطاقة أحتاج مساعدة ثم العودة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act73_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act73_img4.webp",
+  "arabic_label": "بطاقة أحتاج مساعدة ثم العودة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act73_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act74_img1.webp",
+  "arabic_label": "مطابقة المشاعر والمشاركة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act74_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act74_img2.webp",
+  "arabic_label": "مطابقة المشاعر والمشاركة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act74_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act74_img3.webp",
+  "arabic_label": "مطابقة المشاعر والمشاركة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act74_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act74_img4.webp",
+  "arabic_label": "مطابقة المشاعر والمشاركة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act74_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act75_img1.webp",
+  "arabic_label": "إشارة الجسم واختيار الاستراحة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act75_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act75_img2.webp",
+  "arabic_label": "إشارة الجسم واختيار الاستراحة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act75_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act75_img3.webp",
+  "arabic_label": "إشارة الجسم واختيار الاستراحة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act75_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act75_img4.webp",
+  "arabic_label": "إشارة الجسم واختيار الاستراحة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act75_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act76_img1.webp",
+  "arabic_label": "التناوب بمؤقت بصري - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act76_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act76_img2.webp",
+  "arabic_label": "التناوب بمؤقت بصري - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act76_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act76_img3.webp",
+  "arabic_label": "التناوب بمؤقت بصري - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act76_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act76_img4.webp",
+  "arabic_label": "التناوب بمؤقت بصري - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act76_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act77_img1.webp",
+  "arabic_label": "مطابقة تعبيرات الوجه - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act77_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act77_img2.webp",
+  "arabic_label": "مطابقة تعبيرات الوجه - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act77_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act77_img3.webp",
+  "arabic_label": "مطابقة تعبيرات الوجه - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act77_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act77_img4.webp",
+  "arabic_label": "مطابقة تعبيرات الوجه - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act77_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act78_img1.webp",
+  "arabic_label": "اختيار البطاقة والتنفس ثم الاستراحة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act78_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act78_img2.webp",
+  "arabic_label": "اختيار البطاقة والتنفس ثم الاستراحة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act78_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act78_img3.webp",
+  "arabic_label": "اختيار البطاقة والتنفس ثم الاستراحة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act78_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act78_img4.webp",
+  "arabic_label": "اختيار البطاقة والتنفس ثم الاستراحة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act78_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act79_img1.webp",
+  "arabic_label": "بطاقات المشاعر وإشارة التوقف والمشاركة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act79_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act79_img2.webp",
+  "arabic_label": "بطاقات المشاعر وإشارة التوقف والمشاركة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act79_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act79_img3.webp",
+  "arabic_label": "بطاقات المشاعر وإشارة التوقف والمشاركة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act79_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act79_img4.webp",
+  "arabic_label": "بطاقات المشاعر وإشارة التوقف والمشاركة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act79_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act8_img1.png",
+  "arabic_label": "ترتيب الكتب على الرف - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act8_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act8_img2.png",
+  "arabic_label": "ترتيب الكتب على الرف - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act8_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act8_img3.png",
+  "arabic_label": "ترتيب الكتب على الرف - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act8_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act8_img4.png",
+  "arabic_label": "ترتيب الكتب على الرف - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act8_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act80_img1.webp",
+  "arabic_label": "التسلسل البصري وطلب المساعدة والانتقال - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act80_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act80_img2.webp",
+  "arabic_label": "التسلسل البصري وطلب المساعدة والانتقال - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act80_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act80_img3.webp",
+  "arabic_label": "التسلسل البصري وطلب المساعدة والانتقال - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act80_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act80_img4.webp",
+  "arabic_label": "التسلسل البصري وطلب المساعدة والانتقال - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act80_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act81_img1.webp",
+  "arabic_label": "مهمة فنية بجدول أولًا ثم ومؤقت - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act81_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act81_img2.webp",
+  "arabic_label": "مهمة فنية بجدول أولًا ثم ومؤقت - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act81_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act81_img3.webp",
+  "arabic_label": "مهمة فنية بجدول أولًا ثم ومؤقت - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act81_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act81_img4.webp",
+  "arabic_label": "مهمة فنية بجدول أولًا ثم ومؤقت - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act81_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act82_img1.webp",
+  "arabic_label": "بناء برج بالمكعبات بجدول أولًا ثم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act82_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act82_img2.webp",
+  "arabic_label": "بناء برج بالمكعبات بجدول أولًا ثم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act82_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act82_img3.webp",
+  "arabic_label": "بناء برج بالمكعبات بجدول أولًا ثم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act82_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act82_img4.webp",
+  "arabic_label": "بناء برج بالمكعبات بجدول أولًا ثم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act82_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act83_img1.webp",
+  "arabic_label": "بناء المكعبات بمؤقت وقائمة إنجاز - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act83_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act83_img2.webp",
+  "arabic_label": "بناء المكعبات بمؤقت وقائمة إنجاز - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act83_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act83_img3.webp",
+  "arabic_label": "بناء المكعبات بمؤقت وقائمة إنجاز - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act83_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act83_img4.webp",
+  "arabic_label": "بناء المكعبات بمؤقت وقائمة إنجاز - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act83_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act84_img1.webp",
+  "arabic_label": "مطابقة الصور وإنهاء المهمة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act84_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act84_img2.webp",
+  "arabic_label": "مطابقة الصور وإنهاء المهمة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act84_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act84_img3.webp",
+  "arabic_label": "مطابقة الصور وإنهاء المهمة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act84_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act84_img4.webp",
+  "arabic_label": "مطابقة الصور وإنهاء المهمة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act84_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act85_img1.webp",
+  "arabic_label": "لوحة الاختيار وفرز المكعبات بقائمة تحقق - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act85_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act85_img2.webp",
+  "arabic_label": "لوحة الاختيار وفرز المكعبات بقائمة تحقق - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act85_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act85_img3.webp",
+  "arabic_label": "لوحة الاختيار وفرز المكعبات بقائمة تحقق - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act85_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act85_img4.webp",
+  "arabic_label": "لوحة الاختيار وفرز المكعبات بقائمة تحقق - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act85_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act86_img1.webp",
+  "arabic_label": "فرز الأشكال بجدول ومؤقت - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act86_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act86_img2.webp",
+  "arabic_label": "فرز الأشكال بجدول ومؤقت - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act86_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act86_img3.webp",
+  "arabic_label": "فرز الأشكال بجدول ومؤقت - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act86_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act86_img4.webp",
+  "arabic_label": "فرز الأشكال بجدول ومؤقت - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act86_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act87_img1.webp",
+  "arabic_label": "اختيار البطاقة والتسلسل الاجتماعي - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act87_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act87_img2.webp",
+  "arabic_label": "اختيار البطاقة والتسلسل الاجتماعي - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act87_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act87_img3.webp",
+  "arabic_label": "اختيار البطاقة والتسلسل الاجتماعي - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act87_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act87_img4.webp",
+  "arabic_label": "اختيار البطاقة والتسلسل الاجتماعي - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act87_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act88_img1.webp",
+  "arabic_label": "جدول أولًا ثم لمطابقة الأشكال - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act88_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act88_img2.webp",
+  "arabic_label": "جدول أولًا ثم لمطابقة الأشكال - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act88_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act88_img3.webp",
+  "arabic_label": "جدول أولًا ثم لمطابقة الأشكال - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act88_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act88_img4.webp",
+  "arabic_label": "جدول أولًا ثم لمطابقة الأشكال - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act88_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act89_img1.webp",
+  "arabic_label": "مطابقة البطاقات مع جدول بصري ومؤقت - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act89_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act89_img2.webp",
+  "arabic_label": "مطابقة البطاقات مع جدول بصري ومؤقت - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act89_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act89_img3.webp",
+  "arabic_label": "مطابقة البطاقات مع جدول بصري ومؤقت - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act89_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act89_img4.webp",
+  "arabic_label": "مطابقة البطاقات مع جدول بصري ومؤقت - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act89_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act9_img1.png",
+  "arabic_label": "القفز بين العلامات الأرضية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act9_img1.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act9_img2.png",
+  "arabic_label": "القفز بين العلامات الأرضية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act9_img2.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act9_img3.png",
+  "arabic_label": "القفز بين العلامات الأرضية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act9_img3.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act9_img4.png",
+  "arabic_label": "القفز بين العلامات الأرضية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act9_img4.png",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act90_img1.webp",
+  "arabic_label": "مطابقة الأشكال بجدول ومؤقت وصندوق - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act90_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act90_img2.webp",
+  "arabic_label": "مطابقة الأشكال بجدول ومؤقت وصندوق - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act90_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act90_img3.webp",
+  "arabic_label": "مطابقة الأشكال بجدول ومؤقت وصندوق - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act90_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act90_img4.webp",
+  "arabic_label": "مطابقة الأشكال بجدول ومؤقت وصندوق - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act90_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act91_img1.webp",
+  "arabic_label": "التسلسل البصري للمكعبات ثم العودة للمهمة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act91_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act91_img2.webp",
+  "arabic_label": "التسلسل البصري للمكعبات ثم العودة للمهمة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act91_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act91_img3.webp",
+  "arabic_label": "التسلسل البصري للمكعبات ثم العودة للمهمة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act91_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act91_img4.webp",
+  "arabic_label": "التسلسل البصري للمكعبات ثم العودة للمهمة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act91_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act92_img1.webp",
+  "arabic_label": "مكعبات أولًا ثم استراحة بالجدول والمؤقت - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act92_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act92_img2.webp",
+  "arabic_label": "مكعبات أولًا ثم استراحة بالجدول والمؤقت - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act92_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act92_img3.webp",
+  "arabic_label": "مكعبات أولًا ثم استراحة بالجدول والمؤقت - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act92_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act92_img4.webp",
+  "arabic_label": "مكعبات أولًا ثم استراحة بالجدول والمؤقت - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act92_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act93_img1.webp",
+  "arabic_label": "مهمة متعددة الأدوات بجدول ومؤقت - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act93_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act93_img2.webp",
+  "arabic_label": "مهمة متعددة الأدوات بجدول ومؤقت - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act93_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act93_img3.webp",
+  "arabic_label": "مهمة متعددة الأدوات بجدول ومؤقت - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act93_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act93_img4.webp",
+  "arabic_label": "مهمة متعددة الأدوات بجدول ومؤقت - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act93_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act94_img1.webp",
+  "arabic_label": "جدول يومي وصندوق ملمسي ثم حركة وراحة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act94_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act94_img2.webp",
+  "arabic_label": "جدول يومي وصندوق ملمسي ثم حركة وراحة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act94_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act94_img3.webp",
+  "arabic_label": "جدول يومي وصندوق ملمسي ثم حركة وراحة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act94_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act94_img4.webp",
+  "arabic_label": "جدول يومي وصندوق ملمسي ثم حركة وراحة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act94_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act95_img1.webp",
+  "arabic_label": "صندوق استكشاف الأدوات بجدول أولًا ثم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act95_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act95_img2.webp",
+  "arabic_label": "صندوق استكشاف الأدوات بجدول أولًا ثم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act95_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act95_img3.webp",
+  "arabic_label": "صندوق استكشاف الأدوات بجدول أولًا ثم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act95_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act95_img4.webp",
+  "arabic_label": "صندوق استكشاف الأدوات بجدول أولًا ثم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act95_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act96_img1.webp",
+  "arabic_label": "الانتقال من النشاط للراحة بلوحة الآن ثم التالي - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act96_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act96_img2.webp",
+  "arabic_label": "الانتقال من النشاط للراحة بلوحة الآن ثم التالي - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act96_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act96_img3.webp",
+  "arabic_label": "الانتقال من النشاط للراحة بلوحة الآن ثم التالي - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act96_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act96_img4.webp",
+  "arabic_label": "الانتقال من النشاط للراحة بلوحة الآن ثم التالي - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act96_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act97_img1.webp",
+  "arabic_label": "فرز المكعبات والعجين بأدوات ملمسية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act97_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act97_img2.webp",
+  "arabic_label": "فرز المكعبات والعجين بأدوات ملمسية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act97_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act97_img3.webp",
+  "arabic_label": "فرز المكعبات والعجين بأدوات ملمسية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act97_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act97_img4.webp",
+  "arabic_label": "فرز المكعبات والعجين بأدوات ملمسية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act97_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act98_img1.webp",
+  "arabic_label": "مكعبات ثم استكشاف الملمس والراحة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act98_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act98_img2.webp",
+  "arabic_label": "مكعبات ثم استكشاف الملمس والراحة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act98_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act98_img3.webp",
+  "arabic_label": "مكعبات ثم استكشاف الملمس والراحة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act98_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act98_img4.webp",
+  "arabic_label": "مكعبات ثم استكشاف الملمس والراحة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act98_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act99_img1.webp",
+  "arabic_label": "التحضير والانتقال بجدول أولًا ثم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "act99_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act99_img2.webp",
+  "arabic_label": "التحضير والانتقال بجدول أولًا ثم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "act99_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act99_img3.webp",
+  "arabic_label": "التحضير والانتقال بجدول أولًا ثم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "act99_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/act99_img4.webp",
+  "arabic_label": "التحضير والانتقال بجدول أولًا ثم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "act99_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_1_img1.webp",
+  "arabic_label": "عدة الطوارئ الحسية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_1_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_1_img2.webp",
+  "arabic_label": "عدة الطوارئ الحسية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_1_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_1_img3.webp",
+  "arabic_label": "عدة الطوارئ الحسية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_1_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_1_img4.webp",
+  "arabic_label": "عدة الطوارئ الحسية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_1_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_10_img1.webp",
+  "arabic_label": "المواصلات المتدرجة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_10_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_10_img2.webp",
+  "arabic_label": "المواصلات المتدرجة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_10_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_10_img3.webp",
+  "arabic_label": "المواصلات المتدرجة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_10_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_10_img4.webp",
+  "arabic_label": "المواصلات المتدرجة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_10_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_11_img1.webp",
+  "arabic_label": "حمل البقالة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_11_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_11_img2.webp",
+  "arabic_label": "حمل البقالة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_11_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_11_img3.webp",
+  "arabic_label": "حمل البقالة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_11_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_11_img4.webp",
+  "arabic_label": "حمل البقالة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_11_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_12_img1.webp",
+  "arabic_label": "دفع عربة التسوق - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_12_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_12_img2.webp",
+  "arabic_label": "دفع عربة التسوق - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_12_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_12_img3.webp",
+  "arabic_label": "دفع عربة التسوق - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_12_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_12_img4.webp",
+  "arabic_label": "دفع عربة التسوق - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_12_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_13_img1.webp",
+  "arabic_label": "أعمال الحديقة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_13_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_13_img2.webp",
+  "arabic_label": "أعمال الحديقة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_13_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_13_img3.webp",
+  "arabic_label": "أعمال الحديقة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_13_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_13_img4.webp",
+  "arabic_label": "أعمال الحديقة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_13_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_14_img1.webp",
+  "arabic_label": "الرياضة الإيقاعية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_14_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_14_img2.webp",
+  "arabic_label": "الرياضة الإيقاعية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_14_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_14_img3.webp",
+  "arabic_label": "الرياضة الإيقاعية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_14_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_14_img4.webp",
+  "arabic_label": "الرياضة الإيقاعية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_14_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_15_img1.webp",
+  "arabic_label": "مفكرة الطاقة اليومية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_15_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_15_img2.webp",
+  "arabic_label": "مفكرة الطاقة اليومية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_15_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_15_img3.webp",
+  "arabic_label": "مفكرة الطاقة اليومية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_15_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_15_img4.webp",
+  "arabic_label": "مفكرة الطاقة اليومية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_15_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_16_img1.webp",
+  "arabic_label": "بطاقات الاحتياج - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_16_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_16_img2.webp",
+  "arabic_label": "بطاقات الاحتياج - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_16_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_16_img3.webp",
+  "arabic_label": "بطاقات الاحتياج - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_16_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_16_img4.webp",
+  "arabic_label": "بطاقات الاحتياج - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_16_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_17_img1.webp",
+  "arabic_label": "شرح البروفيل للآخرين - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_17_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_17_img2.webp",
+  "arabic_label": "شرح البروفيل للآخرين - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_17_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_17_img3.webp",
+  "arabic_label": "شرح البروفيل للآخرين - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_17_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_17_img4.webp",
+  "arabic_label": "شرح البروفيل للآخرين - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_17_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_2_img1.webp",
+  "arabic_label": "خريطة الأماكن الآمنة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_2_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_2_img2.webp",
+  "arabic_label": "خريطة الأماكن الآمنة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_2_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_2_img3.webp",
+  "arabic_label": "خريطة الأماكن الآمنة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_2_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_2_img4.webp",
+  "arabic_label": "خريطة الأماكن الآمنة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_2_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_3_img1.webp",
+  "arabic_label": "جدول الحمية الحسية اليومي - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_3_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_3_img2.webp",
+  "arabic_label": "جدول الحمية الحسية اليومي - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_3_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_3_img3.webp",
+  "arabic_label": "جدول الحمية الحسية اليومي - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_3_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_3_img4.webp",
+  "arabic_label": "جدول الحمية الحسية اليومي - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_3_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_4_img1.webp",
+  "arabic_label": "إشارة التوقف المتفق عليها - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_4_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_4_img2.webp",
+  "arabic_label": "إشارة التوقف المتفق عليها - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_4_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_4_img3.webp",
+  "arabic_label": "إشارة التوقف المتفق عليها - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_4_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_4_img4.webp",
+  "arabic_label": "إشارة التوقف المتفق عليها - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_4_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_5_img1.webp",
+  "arabic_label": "التنفس المنظم في الزحام - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_5_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_5_img2.webp",
+  "arabic_label": "التنفس المنظم في الزحام - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_5_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_5_img3.webp",
+  "arabic_label": "التنفس المنظم في الزحام - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_5_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_5_img4.webp",
+  "arabic_label": "التنفس المنظم في الزحام - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_5_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_6_img1.webp",
+  "arabic_label": "التسوق المخطط حسيًا - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_6_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_6_img2.webp",
+  "arabic_label": "التسوق المخطط حسيًا - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_6_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_6_img3.webp",
+  "arabic_label": "التسوق المخطط حسيًا - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_6_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_6_img4.webp",
+  "arabic_label": "التسوق المخطط حسيًا - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_6_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_7_img1.webp",
+  "arabic_label": "المشي في الحي - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_7_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_7_img2.webp",
+  "arabic_label": "المشي في الحي - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_7_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_7_img3.webp",
+  "arabic_label": "المشي في الحي - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_7_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_7_img4.webp",
+  "arabic_label": "المشي في الحي - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_7_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_8_img1.webp",
+  "arabic_label": "المقهى الهادئ - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_8_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_8_img2.webp",
+  "arabic_label": "المقهى الهادئ - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_8_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_8_img3.webp",
+  "arabic_label": "المقهى الهادئ - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_8_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_8_img4.webp",
+  "arabic_label": "المقهى الهادئ - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_8_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_9_img1.webp",
+  "arabic_label": "التطوع المنظم - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "o14_9_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_9_img2.webp",
+  "arabic_label": "التطوع المنظم - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "o14_9_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_9_img3.webp",
+  "arabic_label": "التطوع المنظم - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "o14_9_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/o14_9_img4.webp",
+  "arabic_label": "التطوع المنظم - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "o14_9_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_1_img1.webp",
+  "arabic_label": "صينية الماء الدافئ - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_1_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_1_img2.webp",
+  "arabic_label": "صينية الماء الدافئ - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_1_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_1_img3.webp",
+  "arabic_label": "صينية الماء الدافئ - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_1_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_1_img4.webp",
+  "arabic_label": "صينية الماء الدافئ - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_1_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_10_img1.webp",
+  "arabic_label": "الزحف في النفق - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_10_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_10_img2.webp",
+  "arabic_label": "الزحف في النفق - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_10_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_10_img3.webp",
+  "arabic_label": "الزحف في النفق - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_10_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_10_img4.webp",
+  "arabic_label": "الزحف في النفق - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_10_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_11_img1.webp",
+  "arabic_label": "صندوق الضوء - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_11_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_11_img2.webp",
+  "arabic_label": "صندوق الضوء - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_11_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_11_img3.webp",
+  "arabic_label": "صندوق الضوء - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_11_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_11_img4.webp",
+  "arabic_label": "صندوق الضوء - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_11_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_12_img1.webp",
+  "arabic_label": "تتبع الكرة المضيئة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_12_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_12_img2.webp",
+  "arabic_label": "تتبع الكرة المضيئة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_12_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_12_img3.webp",
+  "arabic_label": "تتبع الكرة المضيئة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_12_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_12_img4.webp",
+  "arabic_label": "تتبع الكرة المضيئة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_12_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_13_img1.webp",
+  "arabic_label": "الأصوات المائية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_13_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_13_img2.webp",
+  "arabic_label": "الأصوات المائية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_13_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_13_img3.webp",
+  "arabic_label": "الأصوات المائية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_13_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_13_img4.webp",
+  "arabic_label": "الأصوات المائية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_13_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_14_img1.webp",
+  "arabic_label": "الخشخشة الإيقاعية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_14_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_14_img2.webp",
+  "arabic_label": "الخشخشة الإيقاعية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_14_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_14_img3.webp",
+  "arabic_label": "الخشخشة الإيقاعية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_14_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_14_img4.webp",
+  "arabic_label": "الخشخشة الإيقاعية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_14_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_15_img1.webp",
+  "arabic_label": "مضغ شيء مطاطي آمن - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_15_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_15_img2.webp",
+  "arabic_label": "مضغ شيء مطاطي آمن - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_15_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_15_img3.webp",
+  "arabic_label": "مضغ شيء مطاطي آمن - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_15_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_15_img4.webp",
+  "arabic_label": "مضغ شيء مطاطي آمن - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_15_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_16_img1.webp",
+  "arabic_label": "استكشاف الروائح المألوفة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_16_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_16_img2.webp",
+  "arabic_label": "استكشاف الروائح المألوفة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_16_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_16_img3.webp",
+  "arabic_label": "استكشاف الروائح المألوفة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_16_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_16_img4.webp",
+  "arabic_label": "استكشاف الروائح المألوفة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_16_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_17_img1.webp",
+  "arabic_label": "فقاعات النفخ البديلة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_17_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_17_img2.webp",
+  "arabic_label": "فقاعات النفخ البديلة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_17_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_17_img3.webp",
+  "arabic_label": "فقاعات النفخ البديلة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_17_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_17_img4.webp",
+  "arabic_label": "فقاعات النفخ البديلة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_17_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_2_img1.webp",
+  "arabic_label": "الرسم بالأصابع على أغطية العلب أو حواف الصحون - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_2_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_2_img2.webp",
+  "arabic_label": "الرسم بالأصابع على أغطية العلب أو حواف الصحون - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_2_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_2_img3.webp",
+  "arabic_label": "الرسم بالأصابع على أغطية العلب أو حواف الصحون - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_2_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_2_img4.webp",
+  "arabic_label": "الرسم بالأصابع على أغطية العلب أو حواف الصحون - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_2_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_3_img1.webp",
+  "arabic_label": "كيس القماش الملمسي - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_3_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_3_img2.webp",
+  "arabic_label": "كيس القماش الملمسي - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_3_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_3_img3.webp",
+  "arabic_label": "كيس القماش الملمسي - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_3_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_3_img4.webp",
+  "arabic_label": "كيس القماش الملمسي - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_3_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_4_img1.webp",
+  "arabic_label": "فقاعات الصابون - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_4_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_4_img2.webp",
+  "arabic_label": "فقاعات الصابون - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_4_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_4_img3.webp",
+  "arabic_label": "فقاعات الصابون - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_4_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_4_img4.webp",
+  "arabic_label": "فقاعات الصابون - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_4_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_5_img1.webp",
+  "arabic_label": "التدليك بالضغط الثابت - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_5_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_5_img2.webp",
+  "arabic_label": "التدليك بالضغط الثابت - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_5_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_5_img3.webp",
+  "arabic_label": "التدليك بالضغط الثابت - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_5_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_5_img4.webp",
+  "arabic_label": "التدليك بالضغط الثابت - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_5_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_6_img1.webp",
+  "arabic_label": "الأرجوحة البطيئة - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_6_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_6_img2.webp",
+  "arabic_label": "الأرجوحة البطيئة - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_6_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_6_img3.webp",
+  "arabic_label": "الأرجوحة البطيئة - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_6_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_6_img4.webp",
+  "arabic_label": "الأرجوحة البطيئة - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_6_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_7_img1.webp",
+  "arabic_label": "الدحرجة على البطانية - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_7_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_7_img2.webp",
+  "arabic_label": "الدحرجة على البطانية - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_7_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_7_img3.webp",
+  "arabic_label": "الدحرجة على البطانية - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_7_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_7_img4.webp",
+  "arabic_label": "الدحرجة على البطانية - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_7_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_8_img1.webp",
+  "arabic_label": "القفز على الحضن - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_8_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_8_img2.webp",
+  "arabic_label": "القفز على الحضن - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_8_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_8_img3.webp",
+  "arabic_label": "القفز على الحضن - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_8_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_8_img4.webp",
+  "arabic_label": "القفز على الحضن - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_8_img4",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_9_img1.webp",
+  "arabic_label": "التمايل الإيقاعي - خطوة 1",
+  "category": "sensory",
+  "english_keyword": "u3_9_img1",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_9_img2.webp",
+  "arabic_label": "التمايل الإيقاعي - خطوة 2",
+  "category": "sensory",
+  "english_keyword": "u3_9_img2",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_9_img3.webp",
+  "arabic_label": "التمايل الإيقاعي - خطوة 3",
+  "category": "sensory",
+  "english_keyword": "u3_9_img3",
+  "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/u3_9_img4.webp",
+  "arabic_label": "التمايل الإيقاعي - خطوة 4",
+  "category": "sensory",
+  "english_keyword": "u3_9_img4",
+  "source": "awsaa-sensory-bank"
  }
 ]
