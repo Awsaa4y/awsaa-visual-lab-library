@@ -5677,5 +5677,12 @@
   "category": "sensory",
   "english_keyword": "u3_9_img4",
   "source": "awsaa-sensory-bank"
+ },
+ {
+  "file": "sensory/mosque_prayer_01.jpg",
+  "arabic_label": "مسجد — رجل يصلي",
+  "category": "sensory",
+  "english_keyword": "mosque_prayer_01",
+  "source": "pexels-32457857"
  }
 ]
