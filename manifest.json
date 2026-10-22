@@ -2009,5 +2009,12 @@
   "category": "outdoor",
   "english_keyword": "hoop",
   "source": "generated (Awsaa pictogram batch, 2026-10-21)"
+ },
+ {
+  "file": "emotions/emotions_048_sneezing.png",
+  "arabic_label": "العطاس في منديل",
+  "category": "emotions",
+  "english_keyword": "sneezing",
+  "source": "generated (Awsaa pictogram batch, 2026-10-21)"
  }
 ]
