@@ -2016,5 +2016,201 @@
   "category": "emotions",
   "english_keyword": "sneezing",
   "source": "generated (Awsaa pictogram batch, 2026-10-21)"
+ },
+ {
+  "file": "worksheets/01-alif.png",
+  "arabic_label": "ورقة كتابة حرف الألف",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_alif",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/02-ba.png",
+  "arabic_label": "ورقة كتابة حرف الباء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ba",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/03-ta.png",
+  "arabic_label": "ورقة كتابة حرف التاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ta",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/04-tha.png",
+  "arabic_label": "ورقة كتابة حرف الثاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_tha",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/05-jim.png",
+  "arabic_label": "ورقة كتابة حرف الجيم",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_jim",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/06-ha.png",
+  "arabic_label": "ورقة كتابة حرف الحاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ha",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/07-kha.png",
+  "arabic_label": "ورقة كتابة حرف الخاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_kha",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/08-dal.png",
+  "arabic_label": "ورقة كتابة حرف الدال",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_dal",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/09-thal.png",
+  "arabic_label": "ورقة كتابة حرف الذال",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_thal",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/10-ra.png",
+  "arabic_label": "ورقة كتابة حرف الراء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ra",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/11-zay.png",
+  "arabic_label": "ورقة كتابة حرف الزاي",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_zay",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/12-sin.png",
+  "arabic_label": "ورقة كتابة حرف السين",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_sin",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/13-shin.png",
+  "arabic_label": "ورقة كتابة حرف الشين",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_shin",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/14-sad.png",
+  "arabic_label": "ورقة كتابة حرف الصاد",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_sad",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/15-dad.png",
+  "arabic_label": "ورقة كتابة حرف الضاد",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_dad",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/16-ta2.png",
+  "arabic_label": "ورقة كتابة حرف الطاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ta2",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/17-za2.png",
+  "arabic_label": "ورقة كتابة حرف الظاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_za2",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/18-ayn.png",
+  "arabic_label": "ورقة كتابة حرف العين",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ayn",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/19-ghayn.png",
+  "arabic_label": "ورقة كتابة حرف الغين",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ghayn",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/20-fa.png",
+  "arabic_label": "ورقة كتابة حرف الفاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_fa",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/21-qaf.png",
+  "arabic_label": "ورقة كتابة حرف القاف",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_qaf",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/22-kaf.png",
+  "arabic_label": "ورقة كتابة حرف الكاف",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_kaf",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/23-lam.png",
+  "arabic_label": "ورقة كتابة حرف اللام",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_lam",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/24-mim.png",
+  "arabic_label": "ورقة كتابة حرف الميم",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_mim",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/25-nun.png",
+  "arabic_label": "ورقة كتابة حرف النون",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_nun",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/26-ha2.png",
+  "arabic_label": "ورقة كتابة حرف الهاء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ha2",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/27-waw.png",
+  "arabic_label": "ورقة كتابة حرف الواو",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_waw",
+  "source": "awsaa-rebuilt-2026-10-22"
+ },
+ {
+  "file": "worksheets/28-ya.png",
+  "arabic_label": "ورقة كتابة حرف الياء",
+  "category": "worksheets",
+  "english_keyword": "letter_writing_ya",
+  "source": "awsaa-rebuilt-2026-10-22"
  }
 ]
