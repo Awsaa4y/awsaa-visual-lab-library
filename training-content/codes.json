@@ -3,7 +3,12 @@
  "codes": [
   {
    "code": "AWSAA-DEMO-2027",
-   "kind": "partner"
+   "kind": "partner",
+   "courses": [
+    "l1",
+    "l2",
+    "l3"
+   ]
   },
   {
    "code": "AWSAA-ASDIQA-01",
