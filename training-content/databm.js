@@ -27,7 +27,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "التعريف",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/img/g-session.webp",
      "img2": null,
      "points": [
       "الخريطة السلوكية أداة بصرية توضّح للمتعلم سلوكًا ومساراته المختلفة والعواقب المحتملة لكل خيار: ماذا يحدث إن اختار السلوك المرغوب، وماذا يحدث إن اختار السلوك المشكلة.",
@@ -130,7 +130,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "نقبل الشخص ونعيد توجيه السلوك",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act15.webp",
      "img2": null,
      "points": [
       "السلوك الصعب رسالة قبل أن يكون مشكلة: خلفه حاجة مشروعة غالبًا (انتباه، هرب من ألم أو صعوبة، طلب شيء، تنظيم حسي).",
@@ -248,7 +248,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "ماذا رسمت الخريطة؟",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/img/g-refusal.webp",
      "img2": null,
      "points": [
       "مساران من نقطة قرار واحدة: مسار السلوك المرغوب ونتيجته، ومسار السلوك المشكلة ونتيجته — مرسومين بصور يراهما المتعلم قبل أن يختار، لا بعد أن يقع.",
@@ -350,7 +350,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "مثال سريع",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act27.webp",
      "img2": null,
      "points": [
       "وظيفة: الهرب من مهمة صعبة. بديل مكافئ: بطاقة «أحتاج مساعدة» أو «استراحة قصيرة» — طلب مشروع يخفف الصعوبة فورًا.",
@@ -422,7 +422,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "النتيجة",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act26.webp",
      "img2": null,
      "points": [
       "بحسب ملخص الدراسة: أنتج تدخل خريطة الاقتران انخفاضًا فوريًا في السلوك خارج المهمة لدى جميع الطلاب المشاركين.",
@@ -547,7 +547,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "المحطة العربية: أوسع",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act3.webp",
      "img2": null,
      "points": [
       "قبل ست سنوات قدّم الأستاذ عبد الحليم خليلي الخريطة السلوكية لجمهوره العربي ودرّب عليها — في وقت لم تكن فيه الفكرة منتشرة عربيًا أصلًا، وما زالت حتى اليوم بلا بناء عربي منهجي ينافسها.",
@@ -605,7 +605,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "البيئة شريك دائم",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act21.webp",
      "img2": null,
      "points": [
       "السلوك يحدث داخل بيئة: مهمة بصعوبة معينة، ضجيج، جوع، انتقال مفاجئ، حضور أشخاص بعينهم.",
@@ -692,7 +692,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "مشهد محلول 1: رمي الأداة في الحصة",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act27.webp",
      "img2": null,
      "points": [
       "A: مهمة كتابة طويلة بدأت للتو، والمعلمة عند السبورة.",
@@ -708,7 +708,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "مشهد محلول 2: بكاء عند باب المتجر",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act15.webp",
      "img2": null,
      "points": [
       "A: رأى لعبة يريدها، وقيل له «ليس اليوم».",
@@ -796,7 +796,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "الشكل والوظيفة: لا يفترقان في الظاهر ويفترقان في العلاج",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/img/g-unsuit.webp",
      "img2": null,
      "points": [
       "صراخان متطابقان في الشكل قد تكون وظيفة أحدهما طلب الانتباه ووظيفة الآخر الهرب من مهمة صعبة؛ وعلاجهما نقيض بعضهما: الأول يُروى بانتباه مجدول، والثاني يُروى بتعديل المهمة ودعم البدء.",
@@ -883,7 +883,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "الحصول على الانتباه",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act28.webp",
      "img2": null,
      "points": [
       "علامته: يشتد بحضور الجمهور ويخفت بانشغالهم عنه، ويتجه نحو أشخاص بعينهم.",
@@ -897,7 +897,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "الحصول على شيء أو نشاط",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act8.webp",
      "img2": null,
      "points": [
       "علامته: يرتبط بظهور مرغوب (لعبة، جهاز، طعام، دور) ويهدأ عند الحصول عليه.",
@@ -911,7 +911,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "الهرب أو التجنب",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/img/g-refusal.webp",
      "img2": null,
      "points": [
       "علامته: يشتد عند تقديم مهمة أو انتقال أو مطلب، ويهدأ عند إبعادها.",
@@ -925,7 +925,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "التحسس الحسي والتنظيم الذاتي (توقيع أوسع)",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/img/g-rhythm.webp",
      "img2": null,
      "points": [
       "رسالة المؤسس تجعل هذه الوظيفة أساسية عند المصابين بالتوحد: المتعلم يعبّر بسلوكه عن حالة عدم توازن مع بيئته الداخلية والخارجية (ألم، جوع، انفعالات، ضغوط، أصوات، أضواء) أو يسعى لاستثارتها إيجابيًا.",
@@ -1000,7 +1000,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "وظيفة واحدة بخمسة أشكال",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act9.webp",
      "img2": null,
      "points": [
       "الهرب من حمل حسي زائد قد يظهر: انسحابًا صامتًا، رفضًا لفظيًا، دفعًا لزميل قريب، وضع رأس على الطاولة، أو «نوبة» كاملة عند تراكم المثيرات.",
@@ -1100,7 +1100,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "رحلة الاستعمال في أربع خطوات",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act2.webp",
      "img2": null,
      "points": [
       "أولًا: رصد منظم — تصف السلوك كما يظهر (شكله وسياقه وما قبله وما بعده) بلغة الوقائع لا الأحكام.",
@@ -1230,7 +1230,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "بطاقة التسليم إلى الخريطة",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/img/g-session.webp",
      "img2": null,
      "points": [
       "قبل أن ترسم، املأ خمس خانات: السلوك بوصف كاميرا، سياقه الغالب، الوظيفة المرجحة ودليلها، البديل المكافئ، والنتيجة الخضراء القابلة للتسليم اليوم.",
@@ -1302,7 +1302,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "علامات نضج الخريطة",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/img/g-repeat.webp",
      "img2": null,
      "points": [
       "حين يستعمل المتعلم الأخضر قبل العقدة أحيانًا، وحين يطلب الخريطة بنفسه، وحين يعمّم البديل على سياقات جديدة — فالخريطة تنجح في «إلغاء نفسها».",
@@ -1387,7 +1387,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "المساران",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-template.png",
      "img2": null,
      "points": [
       "الأخضر (يمين القرار أو أعلاه باتساق ثابت): السلوك البديل المكافئ وظيفيًا، بخطواته القصيرة المصوّرة.",
@@ -1489,7 +1489,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "دراما اللونين",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-template.png",
      "img2": null,
      "points": [
       "الأحمر والأخضر لغة عالمية سريعة: توقّف/امضِ، خطر/أمان — يقرؤها المتعلم قبل أن يقرأ أي كلمة.",
@@ -1548,7 +1548,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "بطاقة البداية الواحدة",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-template.png",
      "img2": null,
      "points": [
       "على جانب اللوحة بطاقة واحدة وحدها: الموقف أو السلوك المفتاح بلغة المتعلم وصورته («أرفع يدي»، «أستلم عملًا»).",
@@ -1691,7 +1691,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "الخطوتان 6-7: التجميع والفحص",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act20.webp",
      "img2": null,
      "points": [
       "6. جمّع على القالب الأصلي: بطاقة بداية جانبية، سهما تفرّع، سلسلتان من ثلاث بطاقات ونتيجتان طرفيتان — ثم ابتعد مترين وانظر: هل تُقرأ اللوحة في ثلاث ثوانٍ؟",
@@ -1823,7 +1823,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "خريطة الحالة الأولى: فكّكها بنفسك",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act26.webp",
      "img2": null,
      "points": [
       "أعد مشاهدة مقطع بناء خريطة الحالة وتوقف عند كل عنصر: من أين أتى هذا المثير؟ لماذا اختير هذا البديل دليلًا على التكافؤ؟ هل النتيجة الخضراء قابلة للتسليم غدًا صباحًا؟",
@@ -1880,7 +1880,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "لحظة المقارنة",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act20.webp",
      "img2": null,
      "points": [
       "ضع البطاقتين جنبًا إلى جنب: أين اتفقتما؟ تلك غالبًا وقائع صلبة. أين افترقتما؟ هناك تسكن فرضياتكما المختلفة.",
@@ -1951,7 +1951,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "نموذج بدء العمل",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-model-1.png",
      "img2": null,
      "points": [
       "المثير: «عندما يصلني عمل». الأحمر: أنظر حولي وأتحدث مع الآخرين ثم أتوقف عن العمل = يبقى عملي ناقصًا وأكمله وحدي لاحقًا.",
@@ -1966,7 +1966,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "نموذج المشاركة مع الآخرين",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-model-2.png",
      "img2": null,
      "points": [
       "المثير: «عندما يلعب زميلي بشيء أريده». الأحمر: آخذه بيده = يتوقف اللعب ونلعب منفصلين.",
@@ -1981,7 +1981,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "نموذج الشعور بالغضب",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-model-3.png",
      "img2": null,
      "points": [
       "المثير: «عندما أشعر بالغضب». الأحمر: أضرب أو أصرخ = يبتعد الآخرون ويبقى غضبي أكبر.",
@@ -1996,7 +1996,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "نموذج الخسارة في اللعب",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-model-4.png",
      "img2": null,
      "points": [
       "المثير: «عندما أخسر في اللعبة». الأحمر: أرمي اللعبة وأنسحب غاضبًا = تنتهي اللعبة ولا يلعب معي أحد بعدها.",
@@ -2011,7 +2011,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "نموذج الاعتذار",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-model-5.png",
      "img2": null,
      "points": [
       "المثير: «عندما أؤذي زميلي أو آخذ شيئه». الأحمر: أنكر وأهرب = يبقى زميلي متألمًا وتبتعد عني الجماعة.",
@@ -2116,7 +2116,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "لوحة البطاقات القابلة للتبديل",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/map-template.png",
      "img2": null,
      "points": [
       "صورتنا المرجعية للوحة المادية تعلّم البنية: بطاقات مثير وخطوات ونواتج تُثبَّت وتُفك (فيلكرو)، وسهمان ملوّنان ثابتان مطبوعان على القاعدة.",
@@ -2187,7 +2187,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "علّم الاستراتيجية قبل الموقف",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act8.webp",
      "img2": null,
      "points": [
       "راجع الخريطة مع المتعلم في وقت هادئ: امشِ على كل مسار، وسمِّ النتيجتين، ودعه يعيد الشرح بطريقته.",
@@ -2215,7 +2215,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "في الموقف الحقيقي: استبق وذكّر",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act14.webp",
      "img2": null,
      "points": [
       "توقّع مواقف السلوك (انتقالات، وقت عمل): أخرج الخريطة عند بدء النشاط وراجع المسارات سريعًا قبل أن تبدأ الحرارة.",
@@ -2314,7 +2314,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "قياس الأثر بلا مختبر",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act5.webp",
      "img2": null,
      "points": [
       "ثلاثة أرقام تكفي ميدانيًا: كم مرة ظهر السلوك أسبوعيًا؟ كم دام؟ وكم مرة اختار المتعلم الأخضر طوعًا؟",
@@ -2386,7 +2386,7 @@ window.PLATFORM_DATABM = {
     {
      "kind": "slide",
      "title": "مكوّنات المشروع الستة",
-     "img": null,
+     "img": "https://raw.githubusercontent.com/Awsaa4y/awsaa-visual-lab-library/main/training-content/img/bank-act28.webp",
      "img2": null,
      "points": [
       "رصد ثلاثة مشاهد بصيغة ABC خام بلا كلمات نية",
