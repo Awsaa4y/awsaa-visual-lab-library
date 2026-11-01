@@ -131,7 +131,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-1.png",
      "img2": null,
      "points": [
       "لغة الجسد عند الكبير رسائل يتلقاها الطفل بوضوح: فوضعيتك قد تبعث له الأمان، أو الخوف، أو الغموض، أو الرفض — قبل أن تنطقي بكلمة واحدة.",
@@ -262,7 +262,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-2.png",
      "img2": null,
      "points": [
       "حين يطلب منا أجنبي أن نتحدث ببطء وبلا عامية، نفعل ذلك فورًا لأنه شرط فهمه — وينطبق الأمر نفسه على أطفال التوحد والتخلف الذهني والشلل الدماغي.",
@@ -393,7 +393,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-3.png",
      "img2": null,
      "points": [
       "الطفل مستكشف بطبيعته: كل انتباه مشدود لديه نحو شيء ما هو فرصة لخلق حوار حول ذلك الشيء نفسه.",
@@ -524,7 +524,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-4.png",
      "img2": null,
      "points": [
       "حين تصفين الأفعال أثناء قيامك بها، يربط طفلك الكلمة بالفعل الذي يراه بعينه في اللحظة نفسها: «أحرّك الخليط بالملعقة»، «أقطّع التفاحة بالسكين».",
@@ -669,7 +669,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-5.png",
      "img2": null,
      "points": [
       "كل طفل قادر على الإنجاز؛ وما يحتاجه هو دعم بقدر مناسب، مع ترك فرصة حقيقية له ليبرز قدرته قبل أن تتدخل المساعدة.",
@@ -800,7 +800,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-6.png",
      "img2": null,
      "points": [
       "كل فرصة تواصل فرصة لاستغلالها بأسئلة مفتوحة تستعمل كل قدرات طفلك التواصلية وتشجعه على التفكير والإجابة الأوسع.",
@@ -931,7 +931,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-7.png",
      "img2": null,
      "points": [
       "كل حاجة للطفل فرصة لتقديم اختيارات عبر أسئلة، فيبني بذلك مهارات الاختيار واتخاذ القرار من أصغر مواقفه اليومية.",
@@ -1076,7 +1076,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-8.png",
      "img2": null,
      "points": [
       "يتفاعل الأطفال بشكل طبيعي مع أخطاء الكبار ويرغبون في تصحيحها، لفظًا أو إيماءً، كأنهم يقولون: نحن نعرف الصواب!",
@@ -1207,7 +1207,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-9.png",
      "img2": null,
      "points": [
       "عندما يخطئ الطفل، نتدخل مباشرة بلطف ليصحح خطأه عبر التقليد: فيرى النموذج الصحيح أمامه ويجرّبه بنفسه في اللحظة نفسها.",
@@ -1338,7 +1338,7 @@ window.PLATFORM_DATAENHANCE = {
     {
      "kind": "slide",
      "title": "جوهر النصيحة",
-     "img": null,
+     "img": "img-enhance/tip-10.png",
      "img2": null,
      "points": [
       "ألعاب التخمين تثير إعجاب الأطفال وتنمي حب الاستكشاف لديهم، عبر اهتماماتهم وفرص متكررة لتخمين الحلول بأنفسهم.",
