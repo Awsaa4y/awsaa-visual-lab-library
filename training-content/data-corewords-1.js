@@ -82,7 +82,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>المحاضرة التمهيدية بصوت الأستاذ عبد الحليم خليلي: مفهوم الكلمات الأساسية وأهميتها في بناء المهارات التواصلية لجميع الأعمار والقدرات.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/mcXdkYJ9nzQ\" title=\"مدخل للكلمات الأساسية (الجزء 1)\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>المحاضرة التمهيدية بصوت الأستاذ عبد الحليم خليلي: مفهوم الكلمات الأساسية وأهميتها في بناء المهارات التواصلية لجميع الأعمار والقدرات.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"cdc034f4-476c-40f0-bd39-a18d24d410f0\"></div></div>"
      }
     }
    ],
@@ -200,7 +200,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الأهمية بصوت الأستاذ عبد الحليم خليلي: لماذا تُبنى هذه الدورة، ولمن، وما الذي يتغير بها في حياة الفرد وأسرته.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/PvU81fX6zO0\" title=\"أهمية دورة الكلمات الأساسية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>محاضرة الأهمية بصوت الأستاذ عبد الحليم خليلي: لماذا تُبنى هذه الدورة، ولمن، وما الذي يتغير بها في حياة الفرد وأسرته.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"b5cb5a7b-eb51-49c1-8e8e-1bc3b5e312b0\"></div></div>"
      }
     }
    ],
@@ -333,7 +333,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة النظرة العامة بصوت الأستاذ عبد الحليم خليلي: مشروع Core وتطوره وفلسفة الحقوق ودور المعلم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/RMEQFhbNkSg\" title=\"الوحدة 1: نظرة عامة على الكلمات الأساسية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>محاضرة النظرة العامة بصوت الأستاذ عبد الحليم خليلي: مشروع Core وتطوره وفلسفة الحقوق ودور المعلم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"411b8bd4-926c-4180-8ea9-c006973e6101\"></div></div>"
      }
     }
    ],
@@ -467,7 +467,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة المفردات العالمية بصوت الأستاذ عبد الحليم خليلي: المجموعة العالمية ومعايير اختيارها والرموز التمثيلية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/v3O6L5yZqm0\" title=\"الوحدة 2: المفردات الأساسية العالمية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>محاضرة المفردات العالمية بصوت الأستاذ عبد الحليم خليلي: المجموعة العالمية ومعايير اختيارها والرموز التمثيلية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"7337ce95-eda4-4eeb-a212-4668e6324630\"></div></div>"
      }
     }
    ],
@@ -602,7 +602,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الدمج بصوت الأستاذ عبد الحليم خليلي: أشكال التواصل وإسناد المعنى ومصفوفة التواصل.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/hH7RzFM_G50\" title=\"الوحدة 3: دمج الكلمات الأساسية في العملية التواصلية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>محاضرة الدمج بصوت الأستاذ عبد الحليم خليلي: أشكال التواصل وإسناد المعنى ومصفوفة التواصل.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"a4b2aa8d-b63e-4223-8b2e-45f0918fbb9c\"></div></div>"
      }
     }
    ],
@@ -718,7 +718,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة مصفوفة التواصل بصوت الأستاذ عبد الحليم خليلي: أهميتها في التقييم وتصميم خطط التدخل الفردية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/0kAL4I2wYeU\" title=\"مصفوفة التواصل\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>محاضرة مصفوفة التواصل بصوت الأستاذ عبد الحليم خليلي: أهميتها في التقييم وتصميم خطط التدخل الفردية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"63fd0193-db4b-416f-8a48-45d25c86c2c1\"></div></div>"
      }
     }
    ],
@@ -852,7 +852,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الإدخال اللغوي المدعوم بصوت الأستاذ عبد الحليم خليلي: كيف يعرض الكبار الرموز نموذجًا أمام الطلاب طوال اليوم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/hRsyB0Oh6L4\" title=\"الوحدة 4: دعم المدخلات التواصلية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>محاضرة الإدخال اللغوي المدعوم بصوت الأستاذ عبد الحليم خليلي: كيف يعرض الكبار الرموز نموذجًا أمام الطلاب طوال اليوم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"972c0787-f7cc-40bf-a33e-d716ec727e5d\"></div></div>"
      }
     }
    ],
@@ -1343,7 +1343,7 @@ window.PLATFORM_DATACW1 = {
      "task": null,
      "text": {
       "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الاستعمالات اليومية بصوت الأستاذ عبد الحليم خليلي: الكلمات الأساسية في التسوق والطهي والتنقل وحياة الأسرة.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/Is_CHqc9w3E\" title=\"الوحدة 8: الاستعمالات اليومية للكلمات الأساسية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "body": "<p>محاضرة الاستعمالات اليومية بصوت الأستاذ عبد الحليم خليلي: الكلمات الأساسية في التسوق والطهي والتنقل وحياة الأسرة.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"5a034386-5f8d-4c23-96ba-1430d38be20e\"></div></div>"
      }
     }
    ],
