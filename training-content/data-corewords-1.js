@@ -1,6 +1,6 @@
 window.PLATFORM_DATACW1 = {
  "courseTitle": "دورة الكلمات الأساسية — الجزء الأول: الأساس النظري",
- "courseSub": "الجزء الأول من دورة الكلمات الأساسية (Core Words) بمنهجية مشروع Core: ثماني وحدات نظرية بفيديوهاتها بصوت الأستاذ عبد الحليم خليلي، مع مصفوفة التواصل وهرم التوجيه وخريطة أنظمة AAC العشرين. سعر هذا الجزء: 15 دولارًا. يليه الجزء الثاني التطبيقي: كلمة كل أسبوع عبر عشرة أشهر.",
+ "courseSub": "ما أول الكلمات التي يستحقها طفلك؟ كلمات قليلة قوية يطلب بها ويختار ويرفض ويعلّق في كل مكان وكل يوم. هذا الجزء هو الأساس النظري الكامل لمنهج الكلمات الأساسية: لماذا هي الأهم، وكيف تدخل في العملية التواصلية، ومصفوفة التواصل، ودعم المدخلات، والتواصل في الروتين اليومي والحصص الأكاديمية والقراءة التشاركية، وهرم التوجيه، وخريطة أنظمة التواصل البديل والمعزّز — بفيديوهات لكل وحدة. يليه الجزء الثاني التطبيقي: كلمة واحدة كل أسبوع.",
  "lessons": [
   {
    "n": 1,
@@ -81,8 +81,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>المحاضرة التمهيدية بصوت الأستاذ عبد الحليم خليلي: مفهوم الكلمات الأساسية وأهميتها في بناء المهارات التواصلية لجميع الأعمار والقدرات.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"cdc034f4-476c-40f0-bd39-a18d24d410f0\"></div></div>"
+      "head": "المدخل إلى الكلمات الأساسية",
+      "body": "<p>المحاضرة التمهيدية: مفهوم الكلمات الأساسية وأهميتها في بناء المهارات التواصلية لجميع الأعمار والقدرات.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"cdc034f4-476c-40f0-bd39-a18d24d410f0\"></div></div>"
      }
     }
    ],
@@ -199,8 +199,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الأهمية بصوت الأستاذ عبد الحليم خليلي: لماذا تُبنى هذه الدورة، ولمن، وما الذي يتغير بها في حياة الفرد وأسرته.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"b5cb5a7b-eb51-49c1-8e8e-1bc3b5e312b0\"></div></div>"
+      "head": "لماذا الكلمات الأساسية؟ الأهمية",
+      "body": "<p>محاضرة الأهمية: لماذا تُبنى هذه الدورة، ولمن، وما الذي يتغير بها في حياة الفرد وأسرته.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"b5cb5a7b-eb51-49c1-8e8e-1bc3b5e312b0\"></div></div>"
      }
     }
    ],
@@ -332,8 +332,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة النظرة العامة بصوت الأستاذ عبد الحليم خليلي: مشروع Core وتطوره وفلسفة الحقوق ودور المعلم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"411b8bd4-926c-4180-8ea9-c006973e6101\"></div></div>"
+      "head": "الوحدة 1: نظرة عامة ومشروع Core",
+      "body": "<p>محاضرة النظرة العامة: مشروع Core وتطوره وفلسفة الحقوق ودور المعلم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"411b8bd4-926c-4180-8ea9-c006973e6101\"></div></div>"
      }
     }
    ],
@@ -466,8 +466,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة المفردات العالمية بصوت الأستاذ عبد الحليم خليلي: المجموعة العالمية ومعايير اختيارها والرموز التمثيلية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"7337ce95-eda4-4eeb-a212-4668e6324630\"></div></div>"
+      "head": "الوحدة 2: المفردات الأساسية العالمية والرموز",
+      "body": "<p>محاضرة المفردات العالمية: المجموعة العالمية ومعايير اختيارها والرموز التمثيلية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"7337ce95-eda4-4eeb-a212-4668e6324630\"></div></div>"
      }
     }
    ],
@@ -601,8 +601,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الدمج بصوت الأستاذ عبد الحليم خليلي: أشكال التواصل وإسناد المعنى ومصفوفة التواصل.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"a4b2aa8d-b63e-4223-8b2e-45f0918fbb9c\"></div></div>"
+      "head": "الوحدة 3: دمج الكلمات في العملية التواصلية",
+      "body": "<p>محاضرة الدمج: أشكال التواصل وإسناد المعنى ومصفوفة التواصل.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"a4b2aa8d-b63e-4223-8b2e-45f0918fbb9c\"></div></div>"
      }
     }
    ],
@@ -717,8 +717,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة مصفوفة التواصل بصوت الأستاذ عبد الحليم خليلي: أهميتها في التقييم وتصميم خطط التدخل الفردية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"63fd0193-db4b-416f-8a48-45d25c86c2c1\"></div></div>"
+      "head": "مصفوفة التواصل",
+      "body": "<p>محاضرة مصفوفة التواصل: أهميتها في التقييم وتصميم خطط التدخل الفردية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"63fd0193-db4b-416f-8a48-45d25c86c2c1\"></div></div>"
      }
     }
    ],
@@ -851,8 +851,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الإدخال اللغوي المدعوم بصوت الأستاذ عبد الحليم خليلي: كيف يعرض الكبار الرموز نموذجًا أمام الطلاب طوال اليوم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"972c0787-f7cc-40bf-a33e-d716ec727e5d\"></div></div>"
+      "head": "الوحدة 4: دعم المدخلات التواصلية",
+      "body": "<p>محاضرة الإدخال اللغوي المدعوم: كيف يعرض الكبار الرموز نموذجًا أمام الطلاب طوال اليوم.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"972c0787-f7cc-40bf-a33e-d716ec727e5d\"></div></div>"
      }
     }
    ],
@@ -970,8 +970,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الروتين بصوت الأستاذ عبد الحليم خليلي: تحويل مواقف اليوم المتكررة إلى فرص تعليم للمفردات الأساسية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/bTH2rnZ2E2k\" title=\"الوحدة 5: دعم التواصل خلال الروتين والأنشطة اليومية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "head": "الوحدة 5: التواصل خلال الروتين والأنشطة اليومية",
+      "body": "<p>محاضرة الروتين: تحويل مواقف اليوم المتكررة إلى فرص تعليم للمفردات الأساسية.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/bTH2rnZ2E2k\" title=\"الوحدة 5: دعم التواصل خلال الروتين والأنشطة اليومية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
      }
     }
    ],
@@ -1091,8 +1091,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الحصص الأكاديمية بصوت الأستاذ عبد الحليم خليلي: دمج المفردات الأساسية في المواد الدراسية وروتينات القراءة والكتابة.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/8seOI_y8YRc\" title=\"الوحدة 6: دعم التواصل خلال الحصص الأكاديمية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "head": "الوحدة 6: التواصل خلال الحصص الأكاديمية",
+      "body": "<p>محاضرة الحصص الأكاديمية: دمج المفردات الأساسية في المواد الدراسية وروتينات القراءة والكتابة.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/8seOI_y8YRc\" title=\"الوحدة 6: دعم التواصل خلال الحصص الأكاديمية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
      }
     }
    ],
@@ -1224,8 +1224,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة القراءة التشاركية بصوت الأستاذ عبد الحليم خليلي: تعظيم التفاعل أثناء القراءة واستراتيجية CAR واختيار الكتب.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/WIcUgZfcums\" title=\"الوحدة 7: القراءة التشاركية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
+      "head": "الوحدة 7: القراءة التشاركية واستراتيجية CAR",
+      "body": "<p>محاضرة القراءة التشاركية: تعظيم التفاعل أثناء القراءة واستراتيجية CAR واختيار الكتب.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><iframe src=\"https://www.youtube-nocookie.com/embed/WIcUgZfcums\" title=\"الوحدة 7: القراءة التشاركية\" style=\"position:absolute;inset:0;width:100%;height:100%;border:0\" allow=\"accelerometer; autoplay; encrypted-media; picture-in-picture\" allowfullscreen loading=\"lazy\"></iframe></div>"
      }
     }
    ],
@@ -1342,8 +1342,8 @@ window.PLATFORM_DATACW1 = {
      "check": null,
      "task": null,
      "text": {
-      "head": "فيديو بصوت الأستاذ عبد الحليم خليلي",
-      "body": "<p>محاضرة الاستعمالات اليومية بصوت الأستاذ عبد الحليم خليلي: الكلمات الأساسية في التسوق والطهي والتنقل وحياة الأسرة.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"5a034386-5f8d-4c23-96ba-1430d38be20e\"></div></div>"
+      "head": "الوحدة 8: الاستعمالات اليومية للكلمات الأساسية",
+      "body": "<p>محاضرة الاستعمالات اليومية: الكلمات الأساسية في التسوق والطهي والتنقل وحياة الأسرة.</p><div style=\"position:relative;padding-top:56.25%;border-radius:12px;overflow:hidden;background:#000\"><div class=\"bunny-video\" data-guid=\"5a034386-5f8d-4c23-96ba-1430d38be20e\"></div></div>"
      }
     }
    ],
@@ -1394,7 +1394,7 @@ window.PLATFORM_DATACW1 = {
       "يعدّد مستويات الهرم الثمانية من التحفيز إلى إعادة التعرض",
       "يطبّق قواعد الفعالية: مرونة، صبر، تعزيز إيجابي، تقييم مستمر"
      ],
-     "img": null,
+     "img": "img-corewords1/prompt-hierarchy.jpg",
      "img2": null,
      "points": [],
      "take": "",
@@ -1405,7 +1405,7 @@ window.PLATFORM_DATACW1 = {
     {
      "kind": "slide",
      "title": "ما هرم التوجيه؟",
-     "img": null,
+     "img": "img-corewords1/prompt-hierarchy.jpg",
      "img2": null,
      "points": [
       "هرم التوجيه (Prompt Hierarchy) إطار منهجي لتطوير مهارات التواصل لدى من يعتمدون على التواصل البديل والمعزز (AAC).",
@@ -1512,7 +1512,7 @@ window.PLATFORM_DATACW1 = {
      "sub": "الجزء الأول: الأساس النظري — الدرس 13",
      "goals": [
       "تُعرّف أنظمة AAC وأدوارها لمن يعانون صعوبات الكلام والتواصل اللفظي",
-      "تقرأ بطاقة عشرين نظامًا موزعة في خمس شرائح: وصف وميزة واستخدام وتوصية",
+      "تقرأ بطاقة عشرين نظامًا موزعة في خمس مجموعات: وصف وميزة واستخدام وتوصية",
       "تستخرج قاعدة الاختيار: الملاءمة للفرد قبل خصائص النظام"
      ],
      "img": null,
@@ -1526,7 +1526,7 @@ window.PLATFORM_DATACW1 = {
     {
      "kind": "slide",
      "title": "أنظمة اللوحات المنظمة للكلمات الأساسية",
-     "img": null,
+     "img": "img-corewords/pcs-month-1.png",
      "img2": null,
      "points": [
       "PODD — إطار تنظيمي للرموز والصور مع شبكات تفاعلية توفر خيارات تواصل لغير الناطقين. الميزة والاستخدام: تصميم بسيط ومباشر مناسب للمبتدئين ومتنوع الخيارات ويساعد في التفاعل الطبيعي؛ استخدامه في الدرس: الإشارة إلى «دور» لطلب تبديل النشاط، و«هذا» لتحديد شيء كقلم أو لعبة. التوصية: يُختار للأطفال المبتدئين الذين يحتاجون خيارات بسيطة للتواصل اليومي — مرونته مرتفعة وتعقيده بسيط",
@@ -1782,7 +1782,7 @@ window.PLATFORM_DATACW1 = {
      "title": "مراجع الدورة ومصادرها",
      "sub": "الجزء الأول: الأساس النظري — الدرس 15",
      "goals": [
-      "تسمّي مصدر وحدات هذا الجزء الأصلي على سكول",
+      "تسمّي مصادر وحدات هذا الجزء الأصلية",
       "تصل إلى قائمة فيديوهات الدورة ومرجعها البحثي",
       "تعرف مرجع التوسّع الذي يقوم عليه الجزء الثاني"
      ],
@@ -1800,8 +1800,8 @@ window.PLATFORM_DATACW1 = {
      "img": null,
      "img2": null,
      "points": [
-      "دورة «الكلمات الأساسية CORE WORDS» على سكول — مجتمع AWSAA أوسع (awsaa-with-khelili-2758)، قاعة 67945f05: المصدر الأصلي لوحدات هذا الجزء ونصوصه، وقد سُحبت صفحاتها الخمس والثلاثون كاملة وبُنيت عليها الدروس.",
-      "قائمة تشغيل يوتيوب «CORE WORDS دورة الكلمات الاساسية» — قناة منصة أوسع التدريبية (AWSAA)، معرّف القائمة: PLN-MibvwD0FhU6p3IJpfUcOpl-A5IvbIw — وهي فيديوهات الوحدات المضمّنة في دروس هذا الجزء بصوت الأستاذ عبد الحليم خليلي.",
+      "دورة «الكلمات الأساسية CORE WORDS» الأصلية للمؤسس: المصدر الأصلي لوحدات هذا الجزء ونصوصه.",
+      "قائمة تشغيل يوتيوب «CORE WORDS دورة الكلمات الاساسية» — قناة منصة أوسع التدريبية (AWSAA)، معرّف القائمة: PLN-MibvwD0FhU6p3IJpfUcOpl-A5IvbIw — وهي فيديوهات الوحدات المضمّنة في دروس هذا الجزء.",
       "مجموعة أبحاث مشروع Core (Project Core) المنشورة في المحافل العلمية والمهنية ASHA وATIA وISAAC بين عامي 2015 و2019: المرجع البحثي الذي بُنيت عليه وحدات المشروع الأصلية، كما هو موثّق في درس الخاتمة.",
       "مستند «الكلمات الأساسية جاهزة للطباعة» (Google Docs) المرفق في درس الخاتمة: بطاقات ولوحات الكلمات الأساسية للاستعمال في البيت والفصل."
      ],
