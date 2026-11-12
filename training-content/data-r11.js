@@ -1,6 +1,6 @@
 window.PLATFORM_DATAR11 = {
  "courseTitle": "سحب التلقين: ابنِ استقلالية متعلمك",
- "courseSub": "من تكوين المرافق المدرسي لتلاميذ طيف التوحد في أوسع تدريب: التأخير الزمني والسحب المتدرج ومؤشرا الاستقلالية، وسحب ظلّك الاجتماعي — دورة مركّزة من تكوين المرافق المدرسي لتلاميذ طيف التوحد (الثانية من ثنائية التلقين والسحب).",
+ "courseSub": "التأخير الزمني والسحب المتدرج ومؤشرا الاستقلالية، وسحب ظلّك الاجتماعي — دورة مركّزة (الثانية من ثنائية التلقين والسحب).",
  "lessons": [
   {
    "n": 1,
@@ -778,7 +778,7 @@ window.PLATFORM_DATAR11 = {
       "Steinbrenner, J. R., et al. (2020). Evidence-Based Practices for Children, Youth, and Young Adults with Autism. NCAEP, UNC FPG",
       "Giangreco, M. F., Edelman, S. W., Broer, S. M., & Doyle, M. B. (2001). Paraprofessional Support of Students with Disabilities: Issues in Practice. Exceptional Children, 68(1)",
       "Wolery, M., Ault, M. J., & Doyle, P. M. (1992). Teaching Students with Moderate to Severe Disabilities: Use of Response Prompting Strategies. Longman",
-      "دورة «التلقين بأنواعه وتدرّجه» (الدورة الشقيقة العاشرة) — تكوين المرافق المدرسي لتلاميذ طيف التوحد، أوسع تدريب"
+      "دورة «التلقين بأنواعه وتدرّجه» (الدورة الشقيقة العاشرة)"
      ],
      "text": {
       "body": "مصادر الوحدات: وحدتا التأخير الزمني في AFIRM بنسختيهما، وتصنيف NCAEP، وأدبيات قرب المرافقين وآثاره (Giangreco وآخرون)، والمرجع الكلاسيكي في تلقين الاستجابة وسحبه (Wolery وآخرون).",
