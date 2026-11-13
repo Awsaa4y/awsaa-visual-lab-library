@@ -803,6 +803,14 @@ window.PLATFORM_DATAR14 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>رسمت خريطة سلوك متعلمك؛ والخريطة السلوكية الكاملة بمسارها الرباعي ومستويات الدعم السلوكي الإيجابي هي التخصص الكامل لهذا الباب.</p><p><a href=\"https://train.awsaa.ca/#/course/l4\" style=\"color:#d97b29;font-weight:700\">دورة الخريطة السلوكية</a></p><p><a href=\"https://train.awsaa.ca/#/course/pbs1\" style=\"color:#d97b29;font-weight:700\">الدعم السلوكي الإيجابي — المستوى 1: مدخل فهم السلوك</a></p><p><a href=\"https://train.awsaa.ca/#/course/pbs2\" style=\"color:#d97b29;font-weight:700\">الدعم السلوكي الإيجابي — المستوى 2: تقييم وظائف السلوك والخطة الفردية</a></p>"
+     }
     }
    ],
    "quiz": []
