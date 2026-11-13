@@ -1132,6 +1132,14 @@ window.PLATFORM_DATAR10 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>التلقين الدقيق نصف التعليم؛ ونصفه الآخر خريطة سلوكية كاملة وأدوات إدارتها.</p><p><a href=\"https://train.awsaa.ca/#/course/l4\" style=\"color:#d97b29;font-weight:700\">دورة الخريطة السلوكية</a></p><p><a href=\"https://train.awsaa.ca/#/course/l15\" style=\"color:#d97b29;font-weight:700\">أداة أوسع لإدارة السلوك</a></p>"
+     }
     }
    ],
    "quiz": []
