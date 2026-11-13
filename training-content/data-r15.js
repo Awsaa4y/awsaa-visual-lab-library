@@ -804,6 +804,14 @@ window.PLATFORM_DATAR15 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>فهمت قبل أن تتدخل؛ وتقييم وظائف السلوك بأدواته هو خطوة المختص الكاملة.</p><p><a href=\"https://train.awsaa.ca/#/course/pbs2\" style=\"color:#d97b29;font-weight:700\">الدعم السلوكي الإيجابي — المستوى 2: تقييم وظائف السلوك والخطة الفردية</a></p><p><a href=\"https://train.awsaa.ca/#/course/l15\" style=\"color:#d97b29;font-weight:700\">أداة أوسع لإدارة السلوك</a></p><p><a href=\"https://train.awsaa.ca/#/course/l4\" style=\"color:#d97b29;font-weight:700\">دورة الخريطة السلوكية</a></p>"
+     }
     }
    ],
    "quiz": []
