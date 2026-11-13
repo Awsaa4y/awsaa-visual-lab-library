@@ -803,6 +803,14 @@ window.PLATFORM_DATAR20 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>استراحات متعلمك الحسية تُبنى على بروفيله؛ وفهم البروفيل من التقييم إلى الخطة هو العمق الكامل.</p><p><a href=\"https://train.awsaa.ca/#/course/l11\" style=\"color:#d97b29;font-weight:700\">دورة الفروق الحسية لدى التوحد</a></p><p><a href=\"https://train.awsaa.ca/#/course/l12\" style=\"color:#d97b29;font-weight:700\">دورة فهم البروفيل الحسي — من التقييم إلى الخطة</a></p><p><a href=\"https://sensory.awsaa.ca\" style=\"color:#d97b29;font-weight:700\">أداة البروفيل الحسي وخطة الأنشطة</a></p>"
+     }
     }
    ],
    "quiz": []
