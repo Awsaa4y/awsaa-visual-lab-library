@@ -803,6 +803,14 @@ window.PLATFORM_DATAR17 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>مواقف الخطر تُدار بموجة سلوك تُقرأ قبل أن تصل ذروتها؛ وهذا تخصص المستوى الثالث وحده.</p><p><a href=\"https://train.awsaa.ca/#/course/pbs3\" style=\"color:#d97b29;font-weight:700\">الدعم السلوكي الإيجابي — المستوى 3: التعامل مع السلوكيات العنيفة</a></p><p><a href=\"https://train.awsaa.ca/#/course/l4\" style=\"color:#d97b29;font-weight:700\">دورة الخريطة السلوكية</a></p>"
+     }
     }
    ],
    "quiz": []
