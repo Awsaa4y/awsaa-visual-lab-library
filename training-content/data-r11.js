@@ -803,6 +803,14 @@ window.PLATFORM_DATAR11 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>سحبت التلقين لتبني استقلالية؛ والدعائم والخريطة تجعلان هذه الاستقلالية نظامًا لا موقفًا.</p><p><a href=\"https://train.awsaa.ca/#/course/l4\" style=\"color:#d97b29;font-weight:700\">دورة الخريطة السلوكية</a></p><p><a href=\"https://train.awsaa.ca/#/course/l10\" style=\"color:#d97b29;font-weight:700\">دورة الدعائم البصرية: من الفهم إلى الاستقلالية</a></p>"
+     }
     }
    ],
    "quiz": []
