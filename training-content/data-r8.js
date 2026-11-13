@@ -805,6 +805,14 @@ window.PLATFORM_DATAR8 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>رافقت مستخدم التواصل البديل بأساسياته؛ وأنظمة التواصل المعزز والبديل عالم تخصصي واسع بانتظارك.</p><p><a href=\"https://train.awsaa.ca/#/course/l5\" style=\"color:#d97b29;font-weight:700\">دورة PODD: من الفهم إلى التطبيق</a></p><p><a href=\"https://train.awsaa.ca/#/course/l6\" style=\"color:#d97b29;font-weight:700\">دورة أجهزة توليد الكلام</a></p><p><a href=\"https://train.awsaa.ca/#/course/l18\" style=\"color:#d97b29;font-weight:700\">دورة أوسع AAC: أنظمة التواصل المعزز والبديل</a></p>"
+     }
     }
    ],
    "quiz": []
