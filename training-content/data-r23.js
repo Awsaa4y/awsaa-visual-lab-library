@@ -803,6 +803,14 @@ window.PLATFORM_DATAR23 = {
       "head": "مصادر الوحدات الثلاث وختم التكوين"
      },
      "title": "مراجع الدورة ومصادر ختام التكوين"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>خارج الصف تتغيّر المحطات وتبقى المبادئ؛ والدعم السلوكي الإيجابي يمنحك إطارها الكامل.</p><p><a href=\"https://train.awsaa.ca/#/course/pbs1\" style=\"color:#d97b29;font-weight:700\">الدعم السلوكي الإيجابي — المستوى 1: مدخل فهم السلوك</a></p><p><a href=\"https://train.awsaa.ca/#/course/l4\" style=\"color:#d97b29;font-weight:700\">دورة الخريطة السلوكية</a></p>"
+     }
     }
    ],
    "quiz": []
