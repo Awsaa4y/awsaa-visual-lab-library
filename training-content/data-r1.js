@@ -1578,6 +1578,14 @@ window.PLATFORM_DATAR1 = {
       "head": "مصادر الوحدات الست"
      },
      "title": "مراجع الدورة"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>أخلاقيات المهنة تكتمل بفهم عميق لمن تخدمهم: أسر تعيش التوحد كل يوم.</p><p><a href=\"https://train.awsaa.ca/#/course/l14\" style=\"color:#d97b29;font-weight:700\">دورة رحلتي مع التوحد</a></p>"
+     }
     }
    ],
    "quiz": []
