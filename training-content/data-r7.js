@@ -802,6 +802,14 @@ window.PLATFORM_DATAR7 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>كلماته الأساسية في صفّك بداية؛ وبناؤها نظامًا كاملًا لمتعلمك تخصص قائم بذاته.</p><p><a href=\"https://train.awsaa.ca/#/course/l7\" style=\"color:#d97b29;font-weight:700\">دورة الكلمات الأساسية — الجزء الأول</a></p><p><a href=\"https://train.awsaa.ca/#/course/l8\" style=\"color:#d97b29;font-weight:700\">دورة الكلمات الأساسية — الجزء الثاني</a></p><p><a href=\"https://train.awsaa.ca/#/course/l18\" style=\"color:#d97b29;font-weight:700\">دورة أوسع AAC: أنظمة التواصل المعزز والبديل</a></p>"
+     }
     }
    ],
    "quiz": []
