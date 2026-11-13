@@ -804,6 +804,14 @@ window.PLATFORM_DATAR6 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>صناعة الفرصة فنّ تعلّمت أساسه؛ وتوسيعه إلى منظومة تواصل كاملة خطوتك التالية.</p><p><a href=\"https://train.awsaa.ca/#/course/l9\" style=\"color:#d97b29;font-weight:700\">دورة حفّز التواصل</a></p><p><a href=\"https://train.awsaa.ca/#/course/l7\" style=\"color:#d97b29;font-weight:700\">دورة الكلمات الأساسية — الجزء الأول</a></p>"
+     }
     }
    ],
    "quiz": []
