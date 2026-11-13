@@ -793,6 +793,14 @@ window.PLATFORM_DATAR2 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>ما رأيته هنا من الداخل تجده موسّعًا في دورتين صُنعتا لهذا الفهم وحده.</p><p><a href=\"https://train.awsaa.ca/#/course/l14\" style=\"color:#d97b29;font-weight:700\">دورة رحلتي مع التوحد</a></p><p><a href=\"https://train.awsaa.ca/#/course/l11\" style=\"color:#d97b29;font-weight:700\">دورة الفروق الحسية لدى التوحد</a></p>"
+     }
     }
    ],
    "quiz": []
