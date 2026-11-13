@@ -803,6 +803,14 @@ window.PLATFORM_DATAR12 = {
       "head": "مصادر الوحدات الثلاث"
      },
      "title": "مراجع الدورة ومصادرها"
+    },
+    {
+     "kind": "slide",
+     "title": "للتخصص أكثر",
+     "text": {
+      "head": "بابك التالي في أوسع",
+      "body": "<p>التعزيز الذي يبني السلوك قلبُ الدعم السلوكي الإيجابي كله؛ تعمّق فيه من بابه.</p><p><a href=\"https://train.awsaa.ca/#/course/pbs1\" style=\"color:#d97b29;font-weight:700\">الدعم السلوكي الإيجابي — المستوى 1: مدخل فهم السلوك</a></p><p><a href=\"https://train.awsaa.ca/#/course/l4\" style=\"color:#d97b29;font-weight:700\">دورة الخريطة السلوكية</a></p>"
+     }
     }
    ],
    "quiz": []
