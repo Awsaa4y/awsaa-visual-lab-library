@@ -809,7 +809,7 @@ window.PLATFORM_DATAR13 = {
      "title": "للتخصص أكثر",
      "text": {
       "head": "بابك التالي في أوسع",
-      "body": "<p>تعب الجلوس والكتابة له جذور حسية ونفسية حركية؛ والتخصص فيهما يغيّر قراءتك لصفّك كله.</p><p><a href=\"https://train.awsaa.ca/#/course/l19\" style=\"color:#d97b29;font-weight:700\">البرنامج التخصصي في التقييم والتدخل النفسي الحركي</a></p><p><a href=\"https://train.awsaa.ca/#/course/l11\" style=\"color:#d97b29;font-weight:700\">دورة الفروق الحسية لدى التوحد</a></p>"
+      "body": "<p>تعب الجلوس والكتابة له جذور حسية ونفسية حركية؛ والتخصص فيهما يغيّر قراءتك لصفّك كله.</p><p><a href=\"https://train.awsaa.ca/#/course/l20\" style=\"color:#d97b29;font-weight:700\">دورة الاضطرابات النفسية الحركية عند المصاب بالتوحد</a></p><p><a href=\"https://train.awsaa.ca/#/course/l11\" style=\"color:#d97b29;font-weight:700\">دورة الفروق الحسية لدى التوحد</a></p>"
      }
     }
    ],
