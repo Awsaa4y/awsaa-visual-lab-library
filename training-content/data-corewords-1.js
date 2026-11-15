@@ -29,7 +29,7 @@ window.PLATFORM_DATACW1 = {
     {
      "kind": "slide",
      "title": "لماذا الكلمات الأساسية؟",
-     "img": null,
+     "img": "img-corewords/halim-core-board-intro.jpg",
      "img2": null,
      "points": [
       "الكلمات الأساسية هي الكلمات الأكثر حضورًا في كلامنا اليومي، وهي التي تفتح للفرد باب التعبير عن احتياجاته ومشاعره بوضوح وفعّالية.",
